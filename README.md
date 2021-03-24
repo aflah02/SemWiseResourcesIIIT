@@ -28,4 +28,4 @@ IIIT Sem 1 Resources
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
 
 ### HCI
-- [Interaction Design: Beyond Human-Computer Interaction Book]()
+- [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
