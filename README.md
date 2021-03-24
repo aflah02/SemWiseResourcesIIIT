@@ -9,3 +9,4 @@ IIIT Sem 1 Resources
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+- [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
