@@ -1,4 +1,5 @@
-# Sem1Resources
+# Sem Wise Resources
+
 IIIT Sem 1 Resources
 
 ### IP
@@ -9,6 +10,9 @@ IIIT Sem 1 Resources
  - [MIT OCW Python 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
  - [MIT OCW Python (Some other year)](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
  - [Introduction to Computation & Programming using Python Book](https://ducamp.me/images/0/00/Intro-Computation-Programming-using-Python.pdf)
+ - [Hacker Rank for Practice](https://www.hackerrank.com/domains/python)
+ - [Python Tutor for Visualizations](http://pythontutor.com/)
+ - [Codingbat for Practice](https://codingbat.com/python)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
@@ -22,3 +26,6 @@ IIIT Sem 1 Resources
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [DC Lay 5th Edition](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
+
+### HCI
+- [Interaction Design: Beyond Human-Computer Interaction Book]()
