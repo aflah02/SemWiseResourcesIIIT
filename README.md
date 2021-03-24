@@ -18,6 +18,8 @@ IIIT Sem 1 Resources
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
 - [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
+- [Tristate Buffers](https://www.youtube.com/watch?v=X2HPjppH7Rs)
+- [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 - [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
 - [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
 
