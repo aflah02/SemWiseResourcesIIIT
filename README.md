@@ -18,6 +18,7 @@ IIIT Sem 1 Resources
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
 - [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
+- [Aasaan Padhai Some Good DC Content in Hindi](https://www.youtube.com/channel/UCECthWmk5_sRaE8OCbO_Gag/featured)
 - [Tristate Buffers Short Vid](https://www.youtube.com/watch?v=X2HPjppH7Rs), [Tristate Buffers Longer Vid](https://www.youtube.com/watch?v=2TgCKazwNFk)
 - [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
 -  Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
