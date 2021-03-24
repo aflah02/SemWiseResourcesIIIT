@@ -17,6 +17,7 @@ IIIT Sem 1 Resources
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
+- [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
 - [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
 - [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
 
@@ -26,6 +27,8 @@ IIIT Sem 1 Resources
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [DC Lay 5th Edition](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
+- [Playlist on Vector Spaces](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)
+- [Linear Algebra Done Right, Second Edition by Sheldon Axler Book](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf)
 
 ### HCI
 - [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
