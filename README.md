@@ -6,6 +6,9 @@ IIIT Sem 1 Resources
  - [Code with Harry Python Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
  - [Programming with Mosh Python 6 Hrs Vid](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
  - [Corey Schafer OOPs Concepts](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+ - [MIT OCW Python 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+ - [MIT OCW Python (Some other year)](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
+ - [Introduction to Computation & Programming using Python Book](https://ducamp.me/images/0/00/Intro-Computation-Programming-using-Python.pdf)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
