@@ -27,7 +27,7 @@ IIIT Sem 1 Resources
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [DC Lay 5th Edition](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
-- [Playlist on Vector Spaces](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)
+- [Playlist on Vector Spaces LA by Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)
 - [Linear Algebra Done Right, Second Edition by Sheldon Axler Book](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf)
 
 ### HCI
