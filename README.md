@@ -26,6 +26,9 @@ IIIT Sem 1 Resources
 - [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
 - [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
 - [Online Circuit Simulation using Circuitverse](https://circuitverse.org/)
+- [All gates using MUXs](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/#:~:text=Implementation%20of%20NAND%2C%20NOR%2C%20XOR,input%20to%20the%20second%20multiplexer.&text=Three(3)%20%E2%80%8B2%20%3A,to%20implement%204%20%3A%201%20MUX.)
+- [All gates using NAND Gate](https://en.wikipedia.org/wiki/NAND_logic)
+- [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
 
 ### Linear Algebra
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
