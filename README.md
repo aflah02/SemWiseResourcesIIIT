@@ -39,7 +39,7 @@ IIIT Sem 1 Resources
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
 - [Playlist on Vector Spaces LA by Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)
 - [Linear Algebra Done Right, Second Edition by Sheldon Axler Book](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf)
-- [Toolkit with many calculators](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref)
+- [Toolkit with many calculators](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
 - [Matrix Inverse Calculator](https://matrix.reshish.com/inverse.php) 
 
 ### HCI
