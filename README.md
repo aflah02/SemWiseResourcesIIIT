@@ -41,6 +41,7 @@ IIIT Sem 1 Resources
 - [Linear Algebra Done Right, Second Edition by Sheldon Axler Book](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf)
 - [Toolkit with many calculators](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
 - [Matrix Inverse Calculator](https://matrix.reshish.com/inverse.php) 
+- [Eigenvalue and Eigenvector Calculator](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
 
 ### HCI
 - [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
