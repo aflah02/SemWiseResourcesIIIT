@@ -24,6 +24,8 @@ IIIT Sem 1 Resources
 -  Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
 - [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
 - [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
+- [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
+- [Online Circuit Simulation using Circuitverse](https://circuitverse.org/)
 
 ### Linear Algebra
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
