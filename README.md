@@ -37,3 +37,8 @@ IIIT Sem 1 Resources
 
 ### HCI
 - [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
+- [Prototyping Tool Figma](figma.com)
+- [Figma Tutorial in 40 mins](https://www.youtube.com/watch?v=4W4LvJnNegA)
+- [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
+- [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
+- [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
