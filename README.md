@@ -31,6 +31,7 @@ IIIT Sem 1 Resources
 - [All gates using MUXs](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/#:~:text=Implementation%20of%20NAND%2C%20NOR%2C%20XOR,input%20to%20the%20second%20multiplexer.&text=Three(3)%20%E2%80%8B2%20%3A,to%20implement%204%20%3A%201%20MUX.)
 - [All gates using NAND Gate](https://en.wikipedia.org/wiki/NAND_logic)
 - [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
+- [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
 
 ### Linear Algebra
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
