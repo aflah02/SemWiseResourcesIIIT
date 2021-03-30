@@ -15,6 +15,8 @@ IIIT Sem 1 Resources
  - [Hacker Rank for Practice](https://www.hackerrank.com/domains/python)
  - [Python Tutor for Visualizations](http://pythontutor.com/)
  - [Codingbat for Practice](https://codingbat.com/python)
+ - [Text based tutorial by GFG](https://www.geeksforgeeks.org/python-programming-language/)
+ - [Text based tutorial by W3S](https://www.w3schools.com/python/)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
