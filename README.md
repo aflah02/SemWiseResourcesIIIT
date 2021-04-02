@@ -18,7 +18,6 @@ IIIT Sem 1 Resources
  - [Codingbat for Practice](https://codingbat.com/python)
  - [Text based tutorial by GFG](https://www.geeksforgeeks.org/python-programming-language/)
  - [Text based tutorial by W3S](https://www.w3schools.com/python/)
- Extra:
  - [Matplotlib Basics in 6 Min](https://www.youtube.com/watch?v=nzKy9GY12yo)
  - [Basic Numpy in 13 Min](https://www.youtube.com/watch?v=xECXZ3tyONo)
 
