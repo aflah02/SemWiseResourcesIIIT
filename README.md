@@ -4,7 +4,7 @@ IIIT Sem 1 Resources
 
 [Best Prep Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Notes by Abhay Singh Yadav (2020010)
+### Amazinf Notes by Abhay Singh Yadav (2020010)
 You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
 - [DC Notes Pre Midsems](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/D.C.%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf)
 - [LA Notes Pre Midsems](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/Linear%20Algebra%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf)
