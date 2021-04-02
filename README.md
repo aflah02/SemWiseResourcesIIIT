@@ -1,6 +1,6 @@
 # Sem Wise Resources
 
-IIIT Sem 1 Resources
+## IIIT Sem 1 Resources
 
 [Best Prep Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
