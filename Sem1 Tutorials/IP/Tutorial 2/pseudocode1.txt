@@ -1,0 +1,4 @@
+Input Number 1
+Input Number 2
+Multiply Number 1 and Number 2 and store as Number 3
+Print Number 3 on Screen

@@ -1,0 +1,7 @@
+1. Input Start Point
+2. Input End Point
+3. If Start Point is multiple of 3 print Start Point
+4. If Start Point + 1 is a multiple of 3 then Print Start Point + 1 and Start Point = Start Point + 1
+5. Else if Start Point + 2 is a multiple of 3 then Print Start Point + 2 and Start Point = Start Point + 1
+6. If Start Point + 3 < End Point then Print Start Point + 3 and Start Point = Start Point + 3
+7. Go to Step 6
