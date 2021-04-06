@@ -53,6 +53,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Lesser known Playlist by James Hamblin who follows David C Lay in his videos](https://www.youtube.com/playlist?list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86)
+- [Playlist by Shoo Seto follows DC Lay too](https://www.youtube.com/playlist?list=PLkvjKEArvf9uo4admb4NQ1wn-9g0lfptE)
 - [DC Lay 5th Edition](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
 - [Playlist on Vector Spaces LA by Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)
