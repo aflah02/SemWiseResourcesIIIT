@@ -70,3 +70,9 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
 - [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
 - [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+
+
+## IIIT Sem 2 Resources
+
+### DSA
+- [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
