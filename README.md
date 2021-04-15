@@ -74,6 +74,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ## IIIT Sem 2 Resources
 
+### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) for providing majority of these resources
+
 ### DSA
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [DSA Abdul Bari Sir](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
