@@ -4,6 +4,8 @@
 
 [Best Prep Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) for providing lots of resources
+
 ### Amazing Notes by Abhay Singh Yadav (2020010)
 You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
 - [DC Notes Pre Midsems](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/D.C.%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf)
@@ -73,8 +75,6 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 
 ## IIIT Sem 2 Resources
-
-### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) for providing majority of these resources
 
 ### DSA
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
