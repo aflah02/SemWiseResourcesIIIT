@@ -1,10 +1,10 @@
 # Sem Wise Resources
 
+### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) for providing lots of resources
+
 ## IIIT Sem 1 Resources
 
 [Best Prep Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) for providing lots of resources
 
 ### Amazing Notes by Abhay Singh Yadav (2020010)
 You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
