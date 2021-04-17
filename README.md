@@ -30,7 +30,6 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
  - [Matplotlib Basics in 6 Min](https://www.youtube.com/watch?v=nzKy9GY12yo)
  - [Basic Numpy in 13 Min](https://www.youtube.com/watch?v=xECXZ3tyONo)
  - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
- - [IP Tutorials](https://github.com/aflah02/SemWiseResourcesIIIT/tree/main/Sem1%20Tutorials/IP)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
