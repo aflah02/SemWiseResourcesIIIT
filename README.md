@@ -97,6 +97,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
 - [Basics of Electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL)
 - [Analog Electronics Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
+- [Network Theory Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh)
 
 ### Computer Organization
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
