@@ -81,6 +81,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Java Code with Harry Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 - [DSA Code with Harry Hindi (in C)](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+- [MIT 6.006 Fall 2020, Learning modules, quick notes](https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/fa20/6.006#materials)
 - [DSA with Java Bootcamp Code for Cause](https://www.youtube.com/playlist?list=PLyzHIYrZBplpsh_PQimtVosH72wSVOpy2)
 - [Recursion by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuGnDghDhlD2tjePJ7Ej-rA)
 - [Backtracking by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtkuz3MoLFuBKYmlk52tyaM)
