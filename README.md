@@ -85,6 +85,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [DSA with Java Bootcamp Code for Cause](https://www.youtube.com/playlist?list=PLyzHIYrZBplpsh_PQimtVosH72wSVOpy2)
 - [Recursion by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuGnDghDhlD2tjePJ7Ej-rA)
 - [Backtracking by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtkuz3MoLFuBKYmlk52tyaM)
+- [Java Foundation by PepCoding](https://www.pepcoding.com/resources/online-java-foundation)
 
 ### Probability
 - [Crash Course On Complete Probability And Statistics](https://www.youtube.com/watch?v=YBG3fIdbrMg)
@@ -102,3 +103,4 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### Computer Organization
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
+- [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
