@@ -1,4 +1,4 @@
-# Sem Wise Resources
+# [Sem Wise Resources](https://aflah02.github.io/SemWiseResourcesIIIT/)
 
 #### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) and [Anindya Prithvi](https://github.com/Anindya-Prithvi) for providing resources
 
