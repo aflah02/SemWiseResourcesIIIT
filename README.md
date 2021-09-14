@@ -108,5 +108,5 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ## IIIT Sem 1 Resources
 
 ### OS
-- [OS](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
+- [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
 - [Artix Installation](https://www.youtube.com/watch?v=QzY2T3B4wlo)
