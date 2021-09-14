@@ -109,5 +109,6 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
-- [Artix Installation](https://www.youtube.com/watch?v=QzY2T3B4wlo)
+- [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
+- [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 
