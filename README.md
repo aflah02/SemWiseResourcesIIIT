@@ -105,8 +105,9 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
 
-## IIIT Sem 1 Resources
+## IIIT Sem 3 Resources
 
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
 - [Artix Installation](https://www.youtube.com/watch?v=QzY2T3B4wlo)
+
