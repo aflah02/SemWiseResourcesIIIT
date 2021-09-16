@@ -117,6 +117,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### Mathematics III (Multivariate Calculus)
 - [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
+- [Full Playlist by Dr. Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfIIEY1wEAsVWdW-R_A1-KBJ)
+- [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 
 ### 	Signals and Systems
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
