@@ -114,3 +114,9 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### Discrete Maths
 - [DM Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
+
+### Mathematics III (Multivariate Calculus)
+- [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
+
+### 	Signals and Systems
+- [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
