@@ -107,6 +107,10 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ## IIIT Sem 3 Resources
 
+### AP
+- [CS0150 Brown University](https://cs.brown.edu/courses/cs015/)
+- [Java Code with Harry Hindi (For Some OOPs Concepts)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
 - [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
