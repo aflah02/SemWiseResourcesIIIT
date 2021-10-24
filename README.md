@@ -116,6 +116,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
 - [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 - [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
+- [Ostep: Three easy pieces (which are really easy)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Ostep: Homework (and simulations with solutions in github repo)](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
 
 ### Discrete Maths
 - [DM Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
