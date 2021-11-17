@@ -123,6 +123,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [DM Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
 - [Mathematics for computer science, Eric Lehman, Albert R Meyer, F Thomson Leighton](https://people.csail.mit.edu/meyer/mcs.pdf)
 - [WOP 1](https://www.youtube.com/watch?v=fV3v6qQ3w4A), [WOP 2](https://www.youtube.com/watch?v=I1HpgnWQI7I)
+- [Compilation Mathematical proofs - Alexander Bogomolny](https://www.cut-the-knot.org/proofs/) : The site has many things apart from proofs too.
 
 ### Mathematics III (Multivariate Calculus)
 - [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
