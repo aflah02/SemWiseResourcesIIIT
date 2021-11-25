@@ -110,6 +110,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### AP
 - [CS0150 Brown University](https://cs.brown.edu/courses/cs015/)
 - [Java Code with Harry Hindi (For Some OOPs Concepts)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+- [CSE 114 - Fall 2021 section 1 Stony Brook University](https://www3.cs.stonybrook.edu/~pfodor/courses/cse114.html)
 
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
