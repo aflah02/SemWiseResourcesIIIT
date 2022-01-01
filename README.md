@@ -113,6 +113,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [CSE 114 - Fall 2021 section 1 Stony Brook University](https://www3.cs.stonybrook.edu/~pfodor/courses/cse114.html)
 - [MultiThreading Playlist by Smart Programming in Hindi](https://www.youtube.com/playlist?list=PLlhM4lkb2sEh1pBs0KBb63PlKKqRx6M1a)
 - [JavaFX by Bro Code](https://www.youtube.com/watch?v=9XJicRt_FaI)
+- [Drawing UML Diagrams](https://www.youtube.com/watch?v=UI6lqHOVHic)
+- [Drawing UML Sequence Diagrams](https://youtu.be/pCK6prSq8aw)
 - [Drawing Use Case Diagrams](https://www.youtube.com/watch?v=zid-MVo7M-E)
 
 ### OS
