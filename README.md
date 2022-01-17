@@ -140,3 +140,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### KCES
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## IIIT Sem 1 Resources
+
+### DBMS
+- [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
