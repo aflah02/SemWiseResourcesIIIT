@@ -147,6 +147,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### DBMS
 - [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [Knowledge GATE DBMS Playlist (Section 7 Really Good for Relational Algebra)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
 
 ### ITS
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
