@@ -73,6 +73,10 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 
 
+### Comms
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
 ## IIIT Sem 2 Resources
 
 ### DSA
@@ -104,6 +108,10 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### Computer Organization
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
+
+### NN
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 
 ## IIIT Sem 3 Resources
 
@@ -142,12 +150,16 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### KCES
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 
 ## IIIT Sem 4 Resources
 
 ### DBMS
 - [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-- [Knowledge GATE DBMS Playlist (Section 7 Really Good for Relational Algebra)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
+- [Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
+- [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
+- [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
 
 ### ITS
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
