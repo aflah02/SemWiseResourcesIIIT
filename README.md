@@ -109,10 +109,10 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
 
-### NN
+### SSH Courses
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
+ 
 ## IIIT Sem 3 Resources
 
 ### AP
