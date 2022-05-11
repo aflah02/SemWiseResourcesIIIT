@@ -173,7 +173,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - Do The Book
 - Do The Book
 - Do The Book
-- Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone else has a vidoe on it
+- Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone else has a video on it
 
 ### PIS
 - IDK NO THEORY
