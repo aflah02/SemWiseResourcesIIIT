@@ -163,3 +163,17 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### ITS
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### ADA
+- Abdul Bari
+- Pepcoding
+- William Fiset
+
+### M4
+- Do The Book
+- Do The Book
+- Do The Book
+- Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone else has a vidoe on it
+
+### PIS
+- IDK NO THEORY
