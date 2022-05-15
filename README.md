@@ -177,3 +177,16 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### PIS
 - IDK NO THEORY
+
+### Statistical ML (CSE342)
+- Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
+  - The above is not an API only page, you will find a lot of content for reading.
+- Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
+  - contains wrong information or inconsistent with class.
+
+### Practical Bioinformatics (BIO221)
+- www.google.com 
+
+### Graph Theory (very easy course)
+- Introduction to Graph Theory by Douglas B. West
+  - Note, the course is not on algorithms
