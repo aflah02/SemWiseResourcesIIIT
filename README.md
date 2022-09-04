@@ -190,3 +190,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### Graph Theory (very easy course)
 - Introduction to Graph Theory by Douglas B. West
   - Note, the course is not on algorithms
+
+## IIIT Sem 5 Resources
+
+### NLP
+- [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
