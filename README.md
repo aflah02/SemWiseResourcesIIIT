@@ -195,3 +195,4 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
+- [Smoothing](https://www.youtube.com/watch?v=GwP8gKa-ij8)
