@@ -197,3 +197,5 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
 - [Smoothing](https://www.youtube.com/watch?v=GwP8gKa-ij8)
 - [Left Recursion/ Left Factoring](https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx)
+- [Earley Parser](https://www.youtube.com/watch?v=7UsVbTzx_54)
+- [Ritvik Math Playlist](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UEK2KAGyUP7JO9K-Arct8OM)
