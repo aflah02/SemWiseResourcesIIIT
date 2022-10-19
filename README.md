@@ -159,6 +159,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
 - [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
 - [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
+- [Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
 
 ### ITS
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
