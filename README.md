@@ -200,3 +200,14 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Left Recursion/ Left Factoring](https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx)
 - [Earley Parser](https://www.youtube.com/watch?v=7UsVbTzx_54)
 - [Ritvik Math Playlist](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UEK2KAGyUP7JO9K-Arct8OM)
+- [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Stanford CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+
+### ML
+- [Mahesh Huddar's Videos](https://www.youtube.com/watch?v=d3dLRJwtEk4&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn)
+- [Statquest](https://www.youtube.com/@statquest)
+
+### CN
+- [Kurose](https://www.youtube.com/@JimKurose)
+- [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+- [Computerphile for some topics](https://www.youtube.com/@Computerphile)
