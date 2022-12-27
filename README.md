@@ -211,3 +211,16 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Kurose](https://www.youtube.com/@JimKurose)
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
+
+### RL (Reinforcement Learning)
+- [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+- [Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)
+- [Keypapers in RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
+### Computer Graphics
+- Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
+- SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
+- docs.gl
+
+### EVS
+- [All answers compiled](https://chat.openai.com/)
