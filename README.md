@@ -224,3 +224,8 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
+
+## IIIT Sem 6 Resources
+
+### ATP
+- [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
