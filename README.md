@@ -140,6 +140,9 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Pigeonholes and nest (for assignments ;))](https://www.cut-the-knot.org/do_you_know/pigeon.shtml)
 - [Cut the knot (collection of nice math)](https://www.cut-the-knot.org/)
 
+### Discrete Structures
+- [DS Cheatsheet by Anirudh](https://github.com/Anirudh-S-Kumar/DS-Theorems)
+
 ### Mathematics III (Multivariate Calculus)
 - [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
 - [Full Playlist by Dr. Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfIIEY1wEAsVWdW-R_A1-KBJ)
