@@ -6,7 +6,9 @@
 - [Sem 1](#iiit-sem-1-resources)
 - [Sem 2](#iiit-sem-2-resources)
 - [Sem 3](#iiit-sem-3-resources)
-
+- [Sem 4](#iiit-sem-4-resources)
+- [Sem 5](#iiit-sem-5-resources)
+- [Sem 6](#iiit-sem-6-resources)
 
 ## IIIT Sem 1 Resources
 
