@@ -2,7 +2,7 @@
 
 #### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) and [Anindya Prithvi](https://github.com/Anindya-Prithvi) for providing resources
 
-# Jump to specific semester
+## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
 - [Sem 2](#iiit-sem-2-resources)
 - [Sem 3](#iiit-sem-3-resources)
