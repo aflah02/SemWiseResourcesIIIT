@@ -4,18 +4,55 @@
 
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
-- [Sem 2](#iiit-sem-2-resources)
-- [Sem 3](#iiit-sem-3-resources)
-- [Sem 4](#iiit-sem-4-resources)
-- [Sem 5](#iiit-sem-5-resources)
-- [Sem 6](#iiit-sem-6-resources)
+<center>
 
+| [IP](#ip) | [DC](#dc) | [LA](#linear-algebra)  | [HCI](#hci) | [COM](#comms) |
+|----|----|----|-----|------|
+</center>
+
+- [Sem 2](#iiit-sem-2-resources)
+<center>
+
+| [DSA](#dsa) | [P&S](#probability) | [BE](#basic-electronics)  | [CO](#computer-organization) |
+|----|----|----|-----|
+</center>
+
+- [Sem 3](#iiit-sem-3-resources)
+<center>
+
+| [AP](#ap) | [OS](#os) | [DM](#discrete-maths)  | [DS](#discrete-structures)  | [M3](#mathematics-iii-multivariate-calculus) |
+|----|----|----|-----|-----|
+</center>
+
+- [Sem 4](#iiit-sem-4-resources)
+<center>
+
+| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [SML](#statistical-ml-cse342) | [PIS](#pis) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course)
+|----|----|----|-----|-----|-----|-----|-----|-----|
+</center>
+
+- [Sem 5](#iiit-sem-5-resources)
+<center>
+
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl-reinforcement-learning)  | [CG](#computer-graphics) | [EVS](#evs) |
+|----|----|----|-----|-----|-----|
+
+</center>
+
+- [Sem 6](#iiit-sem-6-resources)
+<center>
+
+| [ATP](#atp) |
+|----|
+</center>
+
+---
 ## IIIT Sem 1 Resources
 
 [Best Prep Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Amazing Notes by Abhay Singh Yadav (2020010)
-You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
+### Amazing Notes by [Abhay Singh Yadav (2020010)](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
+
 - [DC Notes Pre Midsems](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/D.C.%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf)
 - [LA Notes Pre Midsems](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/Linear%20Algebra%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf)
 
@@ -84,7 +121,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### Comms
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
+---
 ## IIIT Sem 2 Resources
 
 ### DSA
@@ -120,7 +157,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### SSH Courses
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
- 
+---
 ## IIIT Sem 3 Resources
 
 ### AP
@@ -135,6 +172,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
+- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keshwani 2020158)](https://github.com/Yash-Keswani)
 - [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
 - [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 - [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
@@ -162,7 +200,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### KCES
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
+---
 ## IIIT Sem 4 Resources
 
 ### DBMS
@@ -177,6 +215,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 
 ### ADA
+- [Winter'22 Lectures by Prof. Syamantak Das](https://sites.google.com/iiitd.ac.in/ada22/lectures-section-a)
 - Abdul Bari
 - Pepcoding
 - William Fiset
@@ -202,7 +241,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 ### Graph Theory (very easy course)
 - Introduction to Graph Theory by Douglas B. West
   - Note, the course is not on algorithms
-
+---
 ## IIIT Sem 5 Resources
 
 ### NLP
@@ -235,7 +274,7 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
-
+---
 ## IIIT Sem 6 Resources
 
 ### ATP
@@ -245,4 +284,5 @@ You can find him on Instagram [here](https://www.instagram.com/abhaysinghyadav07
 - [Intracellular & Extracellular Recording](https://www.youtube.com/watch?v=LyBPd53cSPI)
 - [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
 - [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
-- 
+---
+> ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
