@@ -27,7 +27,7 @@
 - [Sem 4](#iiit-sem-4-resources)
 <center>
 
-| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [SML](#statistical-ml-cse342) | [PIS](#pis) | [TOC](#toc) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course) |
+| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [TOC](#toc) | [SML](#statistical-ml-cse342) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course) |
 |----|----|----|-----|-----|-----|-----|-----|-----|
 </center>
 
