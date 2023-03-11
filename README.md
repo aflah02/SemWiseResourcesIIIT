@@ -27,7 +27,7 @@
 - [Sem 4](#iiit-sem-4-resources)
 <center>
 
-| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [SML](#statistical-ml-cse342) | [PIS](#pis) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course)
+| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [SML](#statistical-ml-cse342) | [PIS](#pis) | [TOC](#toc) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course) |
 |----|----|----|-----|-----|-----|-----|-----|-----|
 </center>
 
@@ -228,6 +228,12 @@
 
 ### PIS
 - IDK NO THEORY
+
+## TOC
+- [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
+- [Spiser Lectures on YouTube](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+- [Kozen Book](https://drive.google.com/file/d/1L9elxZtwFrM7g8hI8xxmL_KoSRTNPpLB/view?usp=sharing)
+
 
 ### Statistical ML (CSE342)
 - Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
