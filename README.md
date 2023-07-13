@@ -280,12 +280,13 @@
 ---
 ## IIIT Sem 6 Resources
 
-### ATP
+### ATP (Late Dropped so take these with a grain of salt)
 - [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
 - [Stroop Task](https://www.youtube.com/watch?v=reUic5tyVwo)
 - [Action Potential](https://www.youtube.com/watch?v=W2hHt_PXe5o)
 - [Intracellular & Extracellular Recording](https://www.youtube.com/watch?v=LyBPd53cSPI)
 - [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
 - [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
+
 ---
 > ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
