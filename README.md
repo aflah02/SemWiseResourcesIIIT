@@ -42,8 +42,8 @@
 - [Sem 6](#iiit-sem-6-resources)
 <center>
 
-| [ATP](#atp) |
-|----|
+| [ATP](#atp-late-dropped-so-take-these-with-a-grain-of-salt) | [GPU](#gpu-gpu-programming) | [VPM](#vpm-valuation-and-portfolio-management) | [DSCD](#dscd-distributed-systems-concepts-and-design) |
+|----|----|----|----|
 </center>
 
 ---
@@ -288,5 +288,15 @@
 - [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
 - [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
 
+### GPU (GPU PROgramming)
+- [Nvidia CUDA programming](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+- [Programming Massively Parallel Processors - A Hands-on Approach](https://www.sciencedirect.com/book/9780128119860/programming-massively-parallel-processors)
+- Other course content like OpenMP/OpenCL | Read the docs
+
+### DSCD (Distributed Systems Concepts and Design)
+- [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
+  
+### VPM (Valuation and Portfolio Management)
+- Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
 ---
 > ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
