@@ -42,8 +42,8 @@
 - [Sem 6](#iiit-sem-6-resources)
 <center>
 
-| [ATP](#atp-late-dropped-so-take-these-with-a-grain-of-salt) | [GPU](#gpu-gpu-programming) | [VPM](#vpm-valuation-and-portfolio-management) | [DSCD](#dscd-distributed-systems-concepts-and-design) |
-|----|----|----|----|
+| [ATP](#atp-late-dropped-so-take-these-with-a-grain-of-salt) | [GPU](#gpu-gpu-programming) | [VPM](#vpm-valuation-and-portfolio-management) | [DSCD](#dscd-distributed-systems-concepts-and-design)  | [DL](#dl-deep-learning) | [IR](#ir-information-retrieval) |
+|----|----|----|----|----|----|
 </center>
 
 ---
@@ -298,5 +298,17 @@
   
 ### VPM (Valuation and Portfolio Management)
 - Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
+
+### DL (Deep Learning)
+- [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Andrew NG - DeepLearningAI](https://www.youtube.com/@Deeplearningai/playlists)
+
+### IR (Information Retrieval)
+- [Old IIIT Recordings](https://www.youtube.com/playlist?list=PL9rvax0EIUA7EkcNOiaFdl81ubnfu3Gzc)
+- [Indexing and VSM](https://www.youtube.com/playlist?list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+- [Some videos from Mining Massive Datasets Course (Stanford)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
+- [Naveen Aggarwal's Playlist (Panjab University)](https://www.youtube.com/playlist?list=PLc8H-pLVIdBVXxAA99dCIA8AJ1qNFXKuN)
+- [Information Retrieval and Web Search IISER Kolkata](https://www.youtube.com/playlist?list=PLpwnR8mPhhf8m7L_b9cSRLdjPW2soerAd)
+
 ---
 > ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
