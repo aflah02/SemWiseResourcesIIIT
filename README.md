@@ -185,11 +185,15 @@
 
 ### Discrete Structures
 - [DS Cheatsheet by Anirudh](https://github.com/Anirudh-S-Kumar/DS-Theorems)
+- [Knowledge GATE DM Playlist (for first half of semester)](https://www.youtube.com/playlist?list=PLmXKhU9FNesRORH5XXsErmamVvUT_zbG4)
+- [Graph Theory Playlist - very useful for most proofs and concepts](https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH)
+- [Graph Theory Playlist (for some parts which wrath of math playlist does not cover)](https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq)
 
 ### Mathematics III (Multivariate Calculus)
 - [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
 - [Full Playlist by Dr. Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfIIEY1wEAsVWdW-R_A1-KBJ)
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
+- [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
 
 ### 	Signals and Systems
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
