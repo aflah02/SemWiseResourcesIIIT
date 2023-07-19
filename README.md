@@ -232,7 +232,7 @@ Contributors:
 ### PIS
 - IDK NO THEORY
 
-## TOC
+### TOC
 - [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
 - [Spiser Lectures on YouTube](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 - [Kozen Book](https://drive.google.com/file/d/1L9elxZtwFrM7g8hI8xxmL_KoSRTNPpLB/view?usp=sharing)
