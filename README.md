@@ -1,6 +1,10 @@
 # [Sem Wise Resources](https://aflah02.github.io/SemWiseResourcesIIIT/)
 
-#### Special Thanks to [Abhishek Goyal](https://www.instagram.com/goyal_sahib90/?hl=en) and [Anindya Prithvi](https://github.com/Anindya-Prithvi) for providing resources
+Contributors:
+
+<a href="https://github.com/aflah02/SemWiseResourcesIIIT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aflah02/SemWiseResourcesIIIT" />
+</a>
 
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
@@ -72,7 +76,6 @@
  - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
 
 ### DC
-- [DC Notes Pre Midsems](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/D.C.%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf) by [Abhay Singh Yadav (2020010)](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
 - [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
@@ -91,7 +94,6 @@
 - [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
 
 ### Linear Algebra
-- [LA Notes Pre Midsems (https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/Sem1Notes/Linear%20Algebra%20Simplified%20Notes%20by%20Abhay%20Singh%20Yadav%20(Pre-Midsems).pdf) by [Abhay Singh Yadav (2020010)](https://www.instagram.com/abhaysinghyadav0707/?hl=en)
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
