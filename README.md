@@ -141,7 +141,7 @@ Contributors:
 - [Statistics and Probability by Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK)
 - [Visualizing Bayes Theorem 3B1B](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 - [Introduction to Probability and Statistics for Engineers and Scientists 3E](http://www.r-5.org/files/books/computers/algo-list/statistics/probability/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
-- [Solutions to Introduction to Probability and Statistics for Engineers and Scientists 5E](https://www.iac.rm.cnr.it/~danielad/corso_P&S/InstructorsManual_0994.pdf)
+- [Solutions to Introduction to Probability and Statistics for Engineers and Scientists 5E](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf)
 
 ### Basic Electronics
 - [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
