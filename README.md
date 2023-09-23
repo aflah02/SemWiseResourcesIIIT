@@ -275,6 +275,12 @@ Contributors:
 - [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - [Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)
 - [Keypapers in RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+- [UPenn's DL Course Week 11](https://www.youtube.com/playlist?list=PLYgyoWurxA_8ePNUuTLDtMvzyf-YW7im2)
+- [RL Course NTNU](https://www.youtube.com/playlist?list=PLZ_sI4f41TGvthD8dA7daahlbLV0yDW0w)
+- [Select Lectures on MDP Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
+- [DeepMind x UCL | Introduction to Reinforcement Learning 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- [DeepMind x UCL | Reinforcement Learning Course 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+- [DeepMind x UCL | Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 ### Computer Graphics
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
