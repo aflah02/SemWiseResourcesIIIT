@@ -280,7 +280,7 @@ Contributors:
 - [Select Lectures on MDP Stanford CS221](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)
 - [DeepMind x UCL | Introduction to Reinforcement Learning 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 - [DeepMind x UCL | Reinforcement Learning Course 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
-- [DeepMind x UCL | Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [DeepMind x UCL | RL Lecture Series 2021 (Playlist Name had Deep Learning by probably a typo as video names have RL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [Reinforcement Learning by the Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
 - [RL Relevant Playlists from CS 486/686 UoT (L18-L21)](https://www.youtube.com/@alicexigao/featured)
 
