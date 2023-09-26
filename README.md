@@ -12,7 +12,7 @@ If you want to add resources but confused about markdown or how to start, please
 - [Sem 1](#iiit-sem-1-resources)
 <center>
 
-| [IP](#ip) | [DC](#dc) | [LA](#la)  | [HCI](#hci) | [COM](#comms) |
+| [IP](#ip) | [DC](#dc) | [LA](#la)  | [HCI](#hci) | [COM](#com) |
 |----|----|----|-----|------|
 </center>
 
