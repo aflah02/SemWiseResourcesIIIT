@@ -6,6 +6,8 @@ Contributors:
   <img src="https://contrib.rocks/image?repo=aflah02/SemWiseResourcesIIIT" />
 </a>
 
+If you want to add resources but confused about markdown or how to start, please refer to this [guide](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/CONTRIBUTING.md)
+
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
 <center>
