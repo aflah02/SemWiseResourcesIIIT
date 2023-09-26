@@ -38,7 +38,7 @@ Contributors:
 - [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl)  | [CG](#computer-graphics) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) |
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) |
 |----|----|----|-----|-----|-----|----|----|----|----|----|----|
 
 
@@ -243,6 +243,8 @@ Contributors:
   - Note, the course is not on algorithms
 ---
 ## IIIT 3rd and 4th Year Resources
+
+> This hasn't been split into semesters as you can take some of these courses in both 3rd and 4th year and due to academic restructuring some courses are also be shifted from odd to even semesters
 
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
