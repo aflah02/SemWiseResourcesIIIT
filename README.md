@@ -285,7 +285,7 @@ Contributors:
 
 
 ### ATP
-Note: Late Dropped by contributor
+> Late Dropped by Contributor
 - [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
 - [Stroop Task](https://www.youtube.com/watch?v=reUic5tyVwo)
 - [Action Potential](https://www.youtube.com/watch?v=W2hHt_PXe5o)
