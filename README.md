@@ -10,44 +10,38 @@ Contributors:
 - [Sem 1](#iiit-sem-1-resources)
 <center>
 
-| [IP](#ip) | [DC](#dc) | [LA](#linear-algebra)  | [HCI](#hci) | [COM](#comms) |
+| [IP](#ip) | [DC](#dc) | [LA](#la)  | [HCI](#hci) | [COM](#comms) |
 |----|----|----|-----|------|
 </center>
 
 - [Sem 2](#iiit-sem-2-resources)
 <center>
 
-| [DSA](#dsa) | [P&S](#probability) | [BE](#basic-electronics)  | [CO](#computer-organization) |
+| [DSA](#dsa) | [P&S](#p&s) | [BE](#be)  | [CO](#co) |
 |----|----|----|-----|
 </center>
 
 - [Sem 3](#iiit-sem-3-resources)
 <center>
 
-| [AP](#ap) | [OS](#os) | [DM](#discrete-maths)  | [DS](#discrete-structures)  | [M3](#mathematics-iii-multivariate-calculus) |
+| [AP](#ap) | [OS](#os) | [DM](#dm)  | [DS](#ds)  | [M3](#m3) |
 |----|----|----|-----|-----|
 </center>
 
 - [Sem 4](#iiit-sem-4-resources)
 <center>
 
-| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [TOC](#toc) | [SML](#statistical-ml-cse342) | [PB](#practical-bioinformatics-bio221) | [GT](#graph-theory-very-easy-course) |
+| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [TOC](#toc) | [SML](#sml) | [PB](#pb) | [GT](#gt) |
 |----|----|----|-----|-----|-----|-----|-----|-----|
 </center>
 
-- [Sem 5](#iiit-sem-5-resources)
+- [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl-reinforcement-learning)  | [CG](#computer-graphics) | [EVS](#evs) |
-|----|----|----|-----|-----|-----|
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl)  | [CG](#computer-graphics) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) |
+|----|----|----|-----|-----|-----|----|----|----|----|----|----|
 
-</center>
 
-- [Sem 6](#iiit-sem-6-resources)
-<center>
-
-| [ATP](#atp-late-dropped-so-take-these-with-a-grain-of-salt) | [GPU](#gpu-gpu-programming) | [VPM](#vpm-valuation-and-portfolio-management) | [DSCD](#dscd-distributed-systems-concepts-and-design)  | [DL](#dl-deep-learning) | [IR](#ir-information-retrieval) |
-|----|----|----|----|----|----|
 </center>
 
 ---
@@ -93,7 +87,7 @@ Contributors:
 - [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
 - [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
 
-### Linear Algebra
+### LA
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -117,7 +111,7 @@ Contributors:
 - [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 
 
-### Comms
+### COM
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 ---
@@ -135,7 +129,7 @@ Contributors:
 - [Backtracking by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtkuz3MoLFuBKYmlk52tyaM)
 - [Java Foundation by PepCoding](https://www.pepcoding.com/resources/online-java-foundation)
 
-### Probability
+### P&S
 - [Crash Course On Complete Probability And Statistics](https://www.youtube.com/watch?v=YBG3fIdbrMg)
 - [Probability for GATE & ESE](https://www.youtube.com/playlist?list=PLMaNnDEjr-rXZCx9U8iEBnCjyqPbhVdZK)
 - [Statistics and Probability by Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK)
@@ -143,19 +137,16 @@ Contributors:
 - [Introduction to Probability and Statistics for Engineers and Scientists 3E](http://www.r-5.org/files/books/computers/algo-list/statistics/probability/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 - [Solutions to Introduction to Probability and Statistics for Engineers and Scientists 5E](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf)
 
-### Basic Electronics
+### BE
 - [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
 - [Basics of Electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL)
 - [Analog Electronics Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
 - [Network Theory Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh)
 
-### Computer Organization
+### CO
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
 
-### SSH Courses
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 ---
 ## IIIT Sem 3 Resources
 
@@ -178,26 +169,26 @@ Contributors:
 - [Ostep: Three easy pieces (which are really easy)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Ostep: Homework (and simulations with solutions in github repo)](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
 
-### Discrete Maths
+### DM
 - [DM Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
 - [Mathematics for computer science, Eric Lehman, Albert R Meyer, F Thomson Leighton](https://people.csail.mit.edu/meyer/mcs.pdf)
 - [WOP 1](https://www.youtube.com/watch?v=fV3v6qQ3w4A), [WOP 2](https://www.youtube.com/watch?v=I1HpgnWQI7I)
 - [Pigeonholes and nest (for assignments ;))](https://www.cut-the-knot.org/do_you_know/pigeon.shtml)
 - [Cut the knot (collection of nice math)](https://www.cut-the-knot.org/)
 
-### Discrete Structures
+### DS
 - [DS Cheatsheet by Anirudh](https://github.com/Anirudh-S-Kumar/DS-Theorems)
 - [Knowledge GATE DM Playlist (for first half of semester)](https://www.youtube.com/playlist?list=PLmXKhU9FNesRORH5XXsErmamVvUT_zbG4)
 - [Graph Theory Playlist - very useful for most proofs and concepts](https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH)
 - [Graph Theory Playlist (for some parts which wrath of math playlist does not cover)](https://www.youtube.com/playlist?list=PLmXKhU9FNesTpQNP_OpXN7WaPwGx7NWsq)
 
-### Mathematics III (Multivariate Calculus)
+### M3
 - [Vector Calculus](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfW0GMqeUE1bLKaYor6kbHa)
 - [Full Playlist by Dr. Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfIIEY1wEAsVWdW-R_A1-KBJ)
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
 
-### 	Signals and Systems
+### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
 
 ### KCES
@@ -238,20 +229,20 @@ Contributors:
 - [Kozen Book](https://drive.google.com/file/d/1L9elxZtwFrM7g8hI8xxmL_KoSRTNPpLB/view?usp=sharing)
 
 
-### Statistical ML (CSE342)
+### SML
 - Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
   - The above is not an API only page, you will find a lot of content for reading.
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
   - contains wrong information or inconsistent with class.
 
-### Practical Bioinformatics (BIO221)
+### PB
 - www.google.com 
 
-### Graph Theory (very easy course)
+### GT
 - Introduction to Graph Theory by Douglas B. West
   - Note, the course is not on algorithms
 ---
-## IIIT Sem 5 Resources
+## IIIT 3rd and 4th Year Resources
 
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
@@ -271,7 +262,7 @@ Contributors:
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
 
-### RL (Reinforcement Learning)
+### RL
 - [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - [Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)
 - [Keypapers in RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
@@ -284,17 +275,17 @@ Contributors:
 - [Reinforcement Learning by the Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
 - [RL Relevant Playlists from CS 486/686 UoT (L18-L21)](https://www.youtube.com/@alicexigao/featured)
 
-### Computer Graphics
+### CG
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
 - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
 - docs.gl
 
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
----
-## IIIT Sem 6 Resources
 
-### ATP (Late Dropped so take these with a grain of salt)
+
+### ATP
+Note: Late Dropped by contributor
 - [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
 - [Stroop Task](https://www.youtube.com/watch?v=reUic5tyVwo)
 - [Action Potential](https://www.youtube.com/watch?v=W2hHt_PXe5o)
@@ -302,22 +293,22 @@ Contributors:
 - [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
 - [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
 
-### GPU (GPU PROgramming)
+### GPU
 - [Nvidia CUDA programming](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 - [Programming Massively Parallel Processors - A Hands-on Approach](https://www.sciencedirect.com/book/9780128119860/programming-massively-parallel-processors)
 - Other course content like OpenMP/OpenCL | Read the docs
 
-### DSCD (Distributed Systems Concepts and Design)
+### DSCD
 - [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
   
-### VPM (Valuation and Portfolio Management)
+### VPM
 - Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
 
-### DL (Deep Learning)
+### DL
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - [Andrew NG - DeepLearningAI](https://www.youtube.com/@Deeplearningai/playlists)
 
-### IR (Information Retrieval)
+### IR
 - [Old IIIT Recordings](https://www.youtube.com/playlist?list=PL9rvax0EIUA7EkcNOiaFdl81ubnfu3Gzc)
 - [Indexing and VSM](https://www.youtube.com/playlist?list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
 - [Some videos from Mining Massive Datasets Course (Stanford)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
