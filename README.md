@@ -246,7 +246,7 @@ If you want to add resources but confused about markdown or how to start, please
 ---
 ## IIIT 3rd and 4th Year Resources
 
-> This hasn't been split into semesters as you can take some of these courses in both 3rd and 4th year and due to academic restructuring some courses are also be shifted from odd to even semesters
+> This hasn't been split into semesters as you can take some of these courses in both 3rd and 4th year and due to academic restructuring some courses are also shifted between odd & even semesters
 
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
