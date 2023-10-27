@@ -40,8 +40,8 @@ If you want to add resources but confused about markdown or how to start, please
 - [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn)  | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) |
-|----|----|----|-----|-----|-----|----|----|----|----|----|----|
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) |
+|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|
 
 
 </center>
@@ -265,6 +265,13 @@ If you want to add resources but confused about markdown or how to start, please
 - [Kurose](https://www.youtube.com/@JimKurose)
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
+
+### NSS-1
+> If you want an easier time with the course, take it in the 7th semester after doing CN. 
+- For Stream and Block Ciphers - [Dan Boneh's YouTube Channel](https://www.youtube.com/@danboneh5297)
+- A very good explanation of [Kerberos](https://www.fortinet.com/resources/cyberglossary/kerberos-authentication)
+- For other cryptographic concepts [Computerphile](https://www.youtube.com/@Computerphile)
+- Lectures the biggest resource, right after asking the prof for doubts
 
 ### RL
 - [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
