@@ -267,10 +267,12 @@ If you want to add resources but confused about markdown or how to start, please
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
 
 ### NSS-1
-> If you want an easier time with the course, take it in the 7th semester after doing CN. 
+> If you want an easier time with the course, take it in the 7th semester after doing CN and maybe FCS(do note these are two very different courses)
 - For Stream and Block Ciphers - [Dan Boneh's YouTube Channel](https://www.youtube.com/@danboneh5297)
 - A very good explanation of [Kerberos](https://www.fortinet.com/resources/cyberglossary/kerberos-authentication)
 - For other cryptographic concepts [Computerphile](https://www.youtube.com/@Computerphile)
+- For SSL/TLS, this [Cloudflare](https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/) article, and [this](https://www.thesslstore.com/blog/explaining-ssl-handshake/) article for TLS1.2 and TLS1.3
+- IPSec - https://docs.strongswan.org/docs/5.9/howtos/ipsecProtocol.html
 - Lectures the biggest resource, right after asking the prof for doubts
 
 ### RL
