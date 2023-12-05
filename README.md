@@ -88,6 +88,7 @@ If you want to add resources but confused about markdown or how to start, please
 - [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
 - [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
 - [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
+- [One Shot End Semester Video (6h)](https://www.youtube.com/watch?v=pHNbm-4reIc)
 
 ### LA
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
