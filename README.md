@@ -19,7 +19,7 @@ If you want to add resources but confused about markdown or how to start, please
 - [Sem 2](#iiit-sem-2-resources)
 <center>
 
-| [DSA](#dsa) | [P&S](#p&s) | [BE](#be)  | [CO](#co) |
+| [DSA](#dsa) | [P&S](#ps) | [BE](#be)  | [CO](#co) |
 |----|----|----|-----|
 </center>
 
