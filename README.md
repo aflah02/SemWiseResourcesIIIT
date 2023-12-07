@@ -274,6 +274,7 @@ If you want to add resources but confused about markdown or how to start, please
 - For other cryptographic concepts [Computerphile](https://www.youtube.com/@Computerphile)
 - For SSL/TLS, this [Cloudflare](https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/) article, and [this](https://www.thesslstore.com/blog/explaining-ssl-handshake/) article for TLS1.2 and TLS1.3
 - IPSec - https://docs.strongswan.org/docs/5.9/howtos/ipsecProtocol.html
+- Buffer Overflow and Format String Vulnerability - [Team bi0s wiki](https://wiki.bi0s.in/pwning/stack-overflow/intro/) and [This binary exploitation notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
 - Lectures the biggest resource, right after asking the prof for doubts
 
 ### RL
