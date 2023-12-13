@@ -40,8 +40,8 @@ If you want to add resources but confused about markdown or how to start, please
 - [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) |
-|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) | [DSc](#dsc)
+|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|----|
 
 
 </center>
@@ -331,6 +331,17 @@ If you want to add resources but confused about markdown or how to start, please
 - [Some videos from Mining Massive Datasets Course (Stanford)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 - [Naveen Aggarwal's Playlist (Panjab University)](https://www.youtube.com/playlist?list=PLc8H-pLVIdBVXxAA99dCIA8AJ1qNFXKuN)
 - [Information Retrieval and Web Search IISER Kolkata](https://www.youtube.com/playlist?list=PLpwnR8mPhhf8m7L_b9cSRLdjPW2soerAd)
+
+### DSc
+- [Stats Playlist](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
+- [Hypothesis Testing](https://www.youtube.com/playlist?list=PLTNMv857s9WXg9tRi7wHU9cMgL1x140dO)
+- [Some lectures from MIT 6.854 (Advanced Algorithms)](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
+- [JL Lemma](https://www.youtube.com/watch?v=j9qbuGSjzeE)
+- [SVD](https://www.youtube.com/watch?v=HAJey9-Q8js)
+- [SVD v/s Eigen Values](https://www.youtube.com/watch?v=Ed6CSJbyVak)
+
+### WN
+- [Links I found useful (Not exhaustive)](https://docs.google.com/document/d/18JtS0q05WspxTS7HJcHLuILzdTNV2n9n6fJxxlDpkaM/edit?usp=sharing)
 
 ---
 > ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
