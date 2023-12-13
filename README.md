@@ -40,8 +40,8 @@ If you want to add resources but confused about markdown or how to start, please
 - [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) | [DSc](#dsc)
-|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|----|
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) | [DSc](#dsc) | [WN](#wn)
+|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|----|----|
 
 
 </center>
