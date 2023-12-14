@@ -40,8 +40,14 @@ If you want to add resources but confused about markdown or how to start, please
 - [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | [VPM](#vpm) | [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) | [DSc](#dsc) | [WN](#wn)
-|----|----|----|-----|-----|-----|----|----|----|----|----|----|----|----|----|
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | 
+|----|----|----|----|----|----|----|----|----|
+
+| [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) | [DSc](#dsc) | [WN](#wn) | [QM](#qm) | [GMT](#gmt) | [iROB](#irob) | [FCS](#fcs) |
+|----|----|----|----|----|----|----|----|----|
+
+ | [VPM](#vpm) |
+ |----|
 
 
 </center>
@@ -342,6 +348,23 @@ If you want to add resources but confused about markdown or how to start, please
 
 ### WN
 - [Links I found useful (Not exhaustive)](https://docs.google.com/document/d/18JtS0q05WspxTS7HJcHLuILzdTNV2n9n6fJxxlDpkaM/edit?usp=sharing)
+
+### QM
+- JJ Sakurai (Can download online)
+- Physics Libretexts ([Essential Graduate Physics](https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Essential_Graduate_Physics_-_Quantum_Mechanics_(Likharev)))
+- [extracts of MIT OCW Lectures](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/a0889c5ca8a479c3e56c544d646fb770_MIT8_06S18ch1.pdf)
+
+### GMT
+- An introduction to game theory, Martin J Osborne (available online)
+
+### iROB
+- (Peter Corke, Second Edition) Robotics, Vision and Control
+
+### FCS
+- https://www.picoctf.org/
+- https://cryptohack.org/
+- https://prof.ninja/
+- Ofcourse, none of the above is "required" for the course and your proficiency is inversely proportional to the grade you might obtain
 
 ---
 > ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
