@@ -8,6 +8,8 @@ Contributors:
 
 If you want to add resources but confused about markdown or how to start, please refer to this [guide](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/CONTRIBUTING.md)
 
+[Essential Starters Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
 <center>
@@ -350,3 +352,6 @@ If you want to add resources but confused about markdown or how to start, please
 - Ofcourse, none of the above is "required" for the course and your proficiency is inversely proportional to the grade you might obtain
 
 
+
+---
+> ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
