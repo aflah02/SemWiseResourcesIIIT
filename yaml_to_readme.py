@@ -69,4 +69,4 @@ def yaml_to_readme(yaml_file_path, readme_file_path):
         f.write(readme)
 
 if __name__ == "__main__":
-    yaml_to_readme('resources.yaml', 'README_CI_CD.md')
+    yaml_to_readme('resources.yaml', 'README.md')

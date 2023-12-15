@@ -3,7 +3,7 @@ name: Create README from YAML
 on:
   workflow_dispatch:
   push:
-    branches:  [Moving-to-CI/CD]
+    branches:  [Main]
 
 jobs:
   serve_user:
@@ -30,6 +30,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README_CI_CD.md
-        git commit -m "Update README_CI_CD.md"
+        git add README.md
+        git commit -m "Update README.md"
         git push
