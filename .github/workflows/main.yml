@@ -23,13 +23,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run serve_user
+    - name: Create README from YAML
       run: python yaml_to_readme.py
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add read.md
-        git commit -m "Update read.md"
+        git add README_CI_CD.md
+        git commit -m "Update README_CI_CD.md"
         git push
