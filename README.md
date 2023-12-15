@@ -1,4 +1,4 @@
-# [Sem Wise Resources](https://aflah02.github.io/SemWiseResourcesIIIT/)
+# IIIT Resources
 
 Contributors:
 
@@ -8,74 +8,74 @@ Contributors:
 
 If you want to add resources but confused about markdown or how to start, please refer to this [guide](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/CONTRIBUTING.md)
 
+[Essential Starters Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Jump to specific semester
 - [Sem 1](#iiit-sem-1-resources)
 <center>
 
-| [IP](#ip) | [DC](#dc) | [LA](#la)  | [HCI](#hci) | [COM](#com) |
-|----|----|----|-----|------|
+| [IP](#ip) | [DC](#dc) | [LA](#la) | [HCI](#hci) | [COM](#com) | 
+|----|----|----|----|----|
 </center>
 
 - [Sem 2](#iiit-sem-2-resources)
 <center>
 
-| [DSA](#dsa) | [P&S](#ps) | [BE](#be)  | [CO](#co) |
-|----|----|----|-----|
+| [DSA](#dsa) | [P&S](#ps) | [BE](#be) | [CO](#co) | 
+|----|----|----|----|
 </center>
 
 - [Sem 3](#iiit-sem-3-resources)
 <center>
 
-| [AP](#ap) | [OS](#os) | [DM](#dm)  | [DS](#ds)  | [M3](#m3) |
-|----|----|----|-----|-----|
+| [AP](#ap) | [OS](#os) | [DM](#dm) | [DS](#ds) | [M3](#m3) | [S&S](#ss) | [KCES](#kces) | 
+|----|----|----|----|----|----|----|
 </center>
 
 - [Sem 4](#iiit-sem-4-resources)
 <center>
 
-| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada)  | [M4](#m4)  | [PIS](#pis) | [TOC](#toc) | [SML](#sml) | [PB](#pb) | [GT](#gt) |
-|----|----|----|-----|-----|-----|-----|-----|-----|
+| [DBMS](#dbms) | [ITS](#its) | [ADA](#ada) | [M4](#m4) | [PIS](#pis) | [TOC](#toc) | [SML](#sml) | [PB](#pb) | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+
+| [GT](#gt) | 
+|----|
 </center>
 
-- [Sem 5 - 8](#iiit-3rd-and-4th-year-resources)
+- [Sem 5-8](#iiit-3rd-and-4th-year-resources)
 <center>
 
-| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl)  | [CG](#cg) | [EVS](#evs) |[ATP](#atp) | [GPU](#gpu) | 
-|----|----|----|----|----|----|----|----|----|
+| [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl) | [CG](#cg) | [EVS](#evs) | [ATP](#atp) | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 
-| [DSCD](#dscd)  | [DL](#dl) | [IR](#ir) | [DSc](#dsc) | [WN](#wn) | [QM](#qm) | [GMT](#gmt) | [iROB](#irob) | [FCS](#fcs) |
-|----|----|----|----|----|----|----|----|----|
+| [GPU](#gpu) | [DSCD](#dscd) | [VPM](#vpm) | [DL](#dl) | [IR](#ir) | [DSc](#dsc) | [WN](#wn) | [QM](#qm) | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 
- | [VPM](#vpm) |
- |----|
-
-
+| [GMT](#gmt) | [iROB](#irob) | [FCS](#fcs) | 
+|----|----|----|
 </center>
 
----
+
 ## IIIT Sem 1 Resources
-
-[Best Prep Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ### IP
- - [Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
- - [Code with Harry Python Playlist Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
- - [Programming with Mosh Python 6 Hrs Vid](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
- - [Corey Schafer OOPs Concepts](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
- - [MIT OCW Python 2016 by Prof. Anna Bell](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
- - [Python lectures by Prof. Eric Grimson](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
- - [MIT OCW Python 2011 by Prof. John Guttag](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
- - [MIT OCW Python 2008 by Prof. John Guttag and Prof. Eric Grimson](https://www.youtube.com/playlist?list=PL4C4720A6F225E074)
- - [Introduction to Computation & Programming using Python Book](https://ducamp.me/images/0/00/Intro-Computation-Programming-using-Python.pdf)
- - [Hacker Rank for Practice](https://www.hackerrank.com/domains/python)
- - [Python Tutor for Visualizations](http://pythontutor.com/)
- - [Codingbat for Practice](https://codingbat.com/python)
- - [Text based tutorial by GFG](https://www.geeksforgeeks.org/python-programming-language/)
- - [Text based tutorial by W3S](https://www.w3schools.com/python/)
- - [Private, Protected and Name Mangling (Not in course but very good for insight building)](https://medium.com/analytics-vidhya/python-name-mangling-and-how-to-use-underscores-e67b529f744f)
- - [Matplotlib Basics in 6 Min](https://www.youtube.com/watch?v=nzKy9GY12yo)
- - [Basic Numpy in 13 Min](https://www.youtube.com/watch?v=xECXZ3tyONo)
- - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
+- [Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Code with Harry Python Playlist Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- [Programming with Mosh Python 6 Hrs Vid](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Corey Schafer OOPs Concepts](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [MIT OCW Python 2016 by Prof. Anna Bell](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
+- [Python lectures by Prof. Eric Grimson](https://www.youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
+- [MIT OCW Python 2011 by Prof. John Guttag](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7)
+- [MIT OCW Python 2008 by Prof. John Guttag and Prof. Eric Grimson](https://www.youtube.com/playlist?list=PL4C4720A6F225E074)
+- [Introduction to Computation & Programming using Python Book](https://ducamp.me/images/0/00/Intro-Computation-Programming-using-Python.pdf)
+- [Hacker Rank for Practice](https://www.hackerrank.com/domains/python)
+- [Python Tutor for Visualizations](http://pythontutor.com/)
+- [Codingbat for Practice](https://codingbat.com/python)
+- [Text based tutorial by GFG](https://www.geeksforgeeks.org/python-programming-language/)
+- [Text based tutorial by W3S](https://www.w3schools.com/python/)
+- [Private, Protected and Name Mangling (Not in course but very good for insight building)](https://medium.com/analytics-vidhya/python-name-mangling-and-how-to-use-underscores-e67b529f744f)
+- [Matplotlib Basics in 6 Min](https://www.youtube.com/watch?v=nzKy9GY12yo)
+- [Basic Numpy in 13 Min](https://www.youtube.com/watch?v=xECXZ3tyONo)
+- [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
@@ -84,7 +84,7 @@ If you want to add resources but confused about markdown or how to start, please
 - [Aasaan Padhai Some Good DC Content in Hindi](https://www.youtube.com/channel/UCECthWmk5_sRaE8OCbO_Gag/featured)
 - [Tristate Buffers Short Vid](https://www.youtube.com/watch?v=X2HPjppH7Rs), [Tristate Buffers Longer Vid](https://www.youtube.com/watch?v=2TgCKazwNFk)
 - [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
--  Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
+- Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
 - [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
 - [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
 - [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
@@ -108,7 +108,7 @@ If you want to add resources but confused about markdown or how to start, please
 - [Playlist on Vector Spaces LA by Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJOGZdxUpDk3w9o-w94-RoG)
 - [Linear Algebra Done Right, Second Edition by Sheldon Axler Book](https://www.cin.ufpe.br/~jrsl/Books/Linear%20Algebra%20Done%20Right%20-%20Sheldon%20Axler.pdf)
 - [Toolkit with many calculators](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
-- [Matrix Inverse Calculator](https://matrix.reshish.com/inverse.php) 
+- [Matrix Inverse Calculator](https://matrix.reshish.com/inverse.php)
 - [Eigenvalue and Eigenvector Calculator](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
 
 ### HCI
@@ -119,13 +119,12 @@ If you want to add resources but confused about markdown or how to start, please
 - [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
 - [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 
-
 ### COM
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
----
-## IIIT Sem 2 Resources
 
+
+## IIIT Sem 2 Resources
 ### DSA
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [DSA Abdul Bari Sir](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
@@ -156,9 +155,8 @@ If you want to add resources but confused about markdown or how to start, please
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
 
----
-## IIIT Sem 3 Resources
 
+## IIIT Sem 3 Resources
 ### AP
 - [CS0150 Brown University](https://cs.brown.edu/courses/cs015/)
 - [Java Code with Harry Hindi (For Some OOPs Concepts)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
@@ -203,9 +201,9 @@ If you want to add resources but confused about markdown or how to start, please
 ### KCES
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
----
-## IIIT Sem 4 Resources
 
+
+## IIIT Sem 4 Resources
 ### DBMS
 - [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 - [Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
@@ -237,24 +235,21 @@ If you want to add resources but confused about markdown or how to start, please
 - [Spiser Lectures on YouTube](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 - [Kozen Book](https://drive.google.com/file/d/1L9elxZtwFrM7g8hI8xxmL_KoSRTNPpLB/view?usp=sharing)
 
-
 ### SML
 - Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
-  - The above is not an API only page, you will find a lot of content for reading.
+- The above is not an API only page, you will find a lot of content for reading.
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
-  - contains wrong information or inconsistent with class.
+- contains wrong information or inconsistent with class.
 
 ### PB
-- www.google.com 
+- www.google.com
 
 ### GT
 - Introduction to Graph Theory by Douglas B. West
-  - Note, the course is not on algorithms
----
+- Note, the course is not on algorithms
+
+
 ## IIIT 3rd and 4th Year Resources
-
-> This hasn't been split into semesters as you can take some of these courses in both 3rd and 4th year and due to academic restructuring some courses are also shifted between odd & even semesters
-
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
 - [Smoothing](https://www.youtube.com/watch?v=GwP8gKa-ij8)
@@ -306,7 +301,6 @@ If you want to add resources but confused about markdown or how to start, please
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
 
-
 ### ATP
 > Late Dropped by Contributor
 - [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
@@ -323,7 +317,7 @@ If you want to add resources but confused about markdown or how to start, please
 
 ### DSCD
 - [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
-  
+
 ### VPM
 - Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
 
@@ -365,6 +359,8 @@ If you want to add resources but confused about markdown or how to start, please
 - https://cryptohack.org/
 - https://prof.ninja/
 - Ofcourse, none of the above is "required" for the course and your proficiency is inversely proportional to the grade you might obtain
+
+
 
 ---
 > ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
