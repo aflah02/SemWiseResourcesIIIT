@@ -1,6 +1,7 @@
 name: Create README from YAML
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main  # Change this to your default branch if different
