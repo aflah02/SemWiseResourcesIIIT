@@ -18,21 +18,34 @@ If you want to add resources but confused about markdown or how to start, please
     readme += "## Jump to specific semester\n"
     vals = ['Sem 1', 'Sem 2', 'Sem 3', 'Sem 4', 'Sem 5-8']
     cnt = 0
+
+    CELL_MATRIX_SEP = 8
+
     for key in yaml_dump.keys():
         readme += f"- [{vals[cnt]}](#{key.replace(' ', '-').lower()})\n"
         readme += "<center>\n"
         readme += '\n'
         courses_str = "| "
-        for course in yaml_dump[key].keys():
+        for itr, course in enumerate(yaml_dump[key].keys()):
             course_link = course.lower()
             # replace & with empty string
             course_link = "#" + course_link.replace('&', '')
             courses_str += f"[{course}]({course_link}) | "
-        readme += courses_str + "\n"
-        readme += "|"
-        for _ in yaml_dump[key].keys():
-            readme += "----|"
-        readme += "\n"
+            if (itr+1)%CELL_MATRIX_SEP == 0 and itr != 0:
+                courses_str += "\n| "
+                # add the ---
+                for _ in range(CELL_MATRIX_SEP):
+                    courses_str += "---- | "
+                courses_str += "\n"
+                # add to readme
+                readme += courses_str
+                courses_str = "| "
+
+        if itr%CELL_MATRIX_SEP != 0:
+            readme += courses_str + "\n"
+            readme += "|"
+            readme += "----|"*(len(yaml_dump[key].keys())%CELL_MATRIX_SEP)
+            readme += "\n"
         readme += "</center>\n"
         readme += "\n"
 
