@@ -3,7 +3,7 @@ name: Create README from YAML
 on:
   workflow_dispatch:
   push:
-    branches:  [Main]
+    branches:  [main]
 
 jobs:
   serve_user:
