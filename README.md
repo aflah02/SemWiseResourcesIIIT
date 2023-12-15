@@ -37,6 +37,9 @@ If you want to add resources but confused about markdown or how to start, please
 
 | [DBMS](#dbms) | [ITS](#its) | [ADA](#ada) | [M4](#m4) | [PIS](#pis) | [TOC](#toc) | [SML](#sml) | [PB](#pb) | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+
+| [GT](#gt) | 
+|----|
 </center>
 
 - [Sem 5-8](#iiit-3rd-and-4th-year-resources)
@@ -44,8 +47,10 @@ If you want to add resources but confused about markdown or how to start, please
 
 | [NLP](#nlp) | [ML](#ml) | [CN](#cn) | [NSS-1](#nss-1) | [RL](#rl) | [CG](#cg) | [EVS](#evs) | [ATP](#atp) | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+
 | [GPU](#gpu) | [DSCD](#dscd) | [VPM](#vpm) | [DL](#dl) | [IR](#ir) | [DSc](#dsc) | [WN](#wn) | [QM](#qm) | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+
 | [GMT](#gmt) | [iROB](#irob) | [FCS](#fcs) | 
 |----|----|----|
 </center>

@@ -36,12 +36,12 @@ If you want to add resources but confused about markdown or how to start, please
                 # add the ---
                 for _ in range(CELL_MATRIX_SEP):
                     courses_str += "---- | "
-                courses_str += "\n"
+                courses_str += "\n\n"
                 # add to readme
                 readme += courses_str
                 courses_str = "| "
 
-        if itr%CELL_MATRIX_SEP != 0:
+        if (itr+1)%CELL_MATRIX_SEP != 0:
             readme += courses_str + "\n"
             readme += "|"
             readme += "----|"*(len(yaml_dump[key].keys())%CELL_MATRIX_SEP)
