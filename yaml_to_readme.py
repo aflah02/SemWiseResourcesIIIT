@@ -61,7 +61,7 @@ If you want to add resources but confused about markdown or how to start, please
 
 def yaml_to_readme(yaml_file_path, readme_file_path):
     with open(yaml_file_path, 'r') as f:
-        yaml_dump = yaml.safe_load(f)
+        yaml_dump = yaml.load(f, Loader=yaml.FullLoader)
 
     readme = build_readme(yaml_dump)
 
