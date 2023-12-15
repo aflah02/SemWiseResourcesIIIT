@@ -339,6 +339,7 @@ If you want to add resources but confused about markdown or how to start, please
 - [JL Lemma](https://www.youtube.com/watch?v=j9qbuGSjzeE)
 - [SVD](https://www.youtube.com/watch?v=HAJey9-Q8js)
 - [SVD v/s Eigen Values](https://www.youtube.com/watch?v=Ed6CSJbyVak)
+- [Statquest](https://www.youtube.com/@statquest)
 
 ### WN
 - [Links I found useful (Not exhaustive)](https://docs.google.com/document/d/18JtS0q05WspxTS7HJcHLuILzdTNV2n9n6fJxxlDpkaM/edit?usp=sharing)
