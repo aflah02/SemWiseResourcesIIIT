@@ -307,6 +307,7 @@ IIIT 3rd and 4th Year Resources:
   - []
   iROB: !!python/tuple
   - - (Peter Corke, Second Edition) Robotics, Vision and Control
+    - MATLAB Simulink resources
   - []
   FCS: !!python/tuple
   - - https://www.picoctf.org/
