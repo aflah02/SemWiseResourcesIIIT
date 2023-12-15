@@ -354,6 +354,7 @@ If you want to add resources but confused about markdown or how to start, please
 
 ### iROB
 - (Peter Corke, Second Edition) Robotics, Vision and Control
+- MATLAB Simulink resources
 
 ### FCS
 - https://www.picoctf.org/
