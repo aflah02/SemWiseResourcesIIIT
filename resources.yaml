@@ -1,4 +1,4 @@
-IIIT Sem 1 Resources:
+Semester 1:
   IP: !!python/tuple
   - - '[Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)'
     - '[Code with Harry Python Playlist Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)'
@@ -71,7 +71,7 @@ IIIT Sem 1 Resources:
   - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
     - '[Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)'
   - []
-IIIT Sem 2 Resources:
+Semester 2:
   DSA: !!python/tuple
   - - '[Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)'
     - '[DSA Abdul Bari Sir](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)'
@@ -103,7 +103,7 @@ IIIT Sem 2 Resources:
   - - '[Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)'
     - '[Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)'
   - []
-IIIT Sem 3 Resources:
+Semester 3:
   AP: !!python/tuple
   - - '[CS0150 Brown University](https://cs.brown.edu/courses/cs015/)'
     - '[Java Code with Harry Hindi (For Some OOPs Concepts)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)'
@@ -151,7 +151,7 @@ IIIT Sem 3 Resources:
   - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
     - '[Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)'
   - []
-IIIT Sem 4 Resources:
+Semester 4:
   DBMS: !!python/tuple
   - - '[Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)'
     - '[Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)'
@@ -198,7 +198,7 @@ IIIT Sem 4 Resources:
   - - Introduction to Graph Theory by Douglas B. West
     - Note, the course is not on algorithms
   - []
-IIIT 3rd and 4th Year Resources:
+Open Electives:
   NLP: !!python/tuple
   - - '[NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)'
     - '[Smoothing](https://www.youtube.com/watch?v=GwP8gKa-ij8)'
@@ -229,7 +229,7 @@ IIIT 3rd and 4th Year Resources:
       and [This binary exploitation notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
     - Lectures the biggest resource, right after asking the prof for doubts
   - - If you want an easier time with the course, take it in the 7th semester after
-      doing CN and maybe FCS(do note these are two very different courses)
+      doing CN and maybe FCS(do note these are two very different courses)  
   RL: !!python/tuple
   - - '[BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)'
     - '[Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)'

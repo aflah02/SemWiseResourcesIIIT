@@ -1,5 +1,3 @@
-# Semester 1
-
 ### IP
 - [Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 - [Code with Harry Python Playlist Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
@@ -65,3 +63,4 @@
 ### COM
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
