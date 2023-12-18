@@ -1,4 +1,5 @@
 site_name: IIITD Resources
+site_url: https://anirudh-s-kumar.github.io/SemWiseResourcesIIIT/
 theme:
   name: material
   features:
