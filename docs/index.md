@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# IIITD Resources
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Contributors:
 
-## Commands
+<a href="https://github.com/aflah02/SemWiseResourcesIIIT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aflah02/SemWiseResourcesIIIT" />
+</a>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+If you want to add resources but confused about how to start, please refer to this [guide](https://github.com/aflah02/SemWiseResourcesIIIT/blob/main/CONTRIBUTING.md)
 
-## Project layout
+Note: The process has recently changed (December 2023) and the changes now need to go to `resources.yaml` and not to `README.md` directly
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Essential Starters Guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
