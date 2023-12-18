@@ -224,7 +224,7 @@ Open Electives:
     - For SSL/TLS, this [Cloudflare](https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/)
       article, and [this](https://www.thesslstore.com/blog/explaining-ssl-handshake/)
       article for TLS1.2 and TLS1.3
-    - IPSec - https://docs.strongswan.org/docs/5.9/howtos/ipsecProtocol.html
+    - For IPSec, this [strongswan](https://docs.strongswan.org/docs/5.9/howtos/ipsecProtocol.html) article
     - Buffer Overflow and Format String Vulnerability - [Team bi0s wiki](https://wiki.bi0s.in/pwning/stack-overflow/intro/)
       and [This binary exploitation notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
     - Lectures the biggest resource, right after asking the prof for doubts
@@ -310,9 +310,9 @@ Open Electives:
     - MATLAB Simulink resources
   - []
   FCS: !!python/tuple
-  - - https://www.picoctf.org/
-    - https://cryptohack.org/
-    - https://prof.ninja/
+  - - [PicoCTF](https://www.picoctf.org/)
+    - [CryptoHack](https://cryptohack.org/)
+    - [Prof Ninja](https://prof.ninja/)
     - Ofcourse, none of the above is "required" for the course and your proficiency
       is inversely proportional to the grade you might obtain
   - []
