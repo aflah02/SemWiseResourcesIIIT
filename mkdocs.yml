@@ -2,6 +2,7 @@ site_name: IIITD Resources
 site_url: https://aflah02.github.io/SemWiseResourcesIIIT/
 repo_name: aflah02/SemWiseResourcesIIIT
 repo_url: https://github.com/aflah02/SemWiseResourcesIIIT
+edit_uri: edit/main/docs/
 theme:
   name: material
   features:
