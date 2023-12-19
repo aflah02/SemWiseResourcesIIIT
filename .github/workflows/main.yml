@@ -1,4 +1,4 @@
-name: Create README from YAML
+name: Create README and Website from YAML
 
 on:
   workflow_dispatch:
@@ -27,6 +27,8 @@ jobs:
 
     - name: Create README from YAML
       run: python yaml_to_readme.py
+    - name: Create docs from YAML
+      run: python yaml_to_docs.py
 
     - name: Commit changes
       run: |

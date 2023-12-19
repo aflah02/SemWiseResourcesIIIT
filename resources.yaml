@@ -310,9 +310,9 @@ Open Electives:
     - MATLAB Simulink resources
   - []
   FCS: !!python/tuple
-  - - [PicoCTF](https://www.picoctf.org/)
-    - [CryptoHack](https://cryptohack.org/)
-    - [Prof Ninja](https://prof.ninja/)
+  - - '[PicoCTF](https://www.picoctf.org)'
+    - '[CryptoHack](https://cryptohack.org)'
+    - '[Prof Ninja](https://prof.ninja)'
     - Ofcourse, none of the above is "required" for the course and your proficiency
       is inversely proportional to the grade you might obtain
   - []
