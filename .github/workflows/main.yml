@@ -26,9 +26,9 @@ jobs:
         pip install -r requirements.txt
 
     - name: Create README from YAML
-      run: python yaml_to_readme.py
+      run: python scripts/yaml_to_readme.py
     - name: Create docs from YAML
-      run: python yaml_to_docs.py
+      run: python scripts/yaml_to_docs.py
 
     - name: Commit changes
       run: |
