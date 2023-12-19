@@ -1,4 +1,4 @@
-name: Create README from YAML
+name: Create README and Website from YAML
 
 on:
   workflow_dispatch:
