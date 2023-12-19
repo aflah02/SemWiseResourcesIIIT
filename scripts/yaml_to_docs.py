@@ -3,7 +3,7 @@ import yaml
 # Constants
 YAML_FILE_PATH:str = 'resources.yaml'
 DOCS_DIRECTORY:str = 'docs/'
-INIT_README:str = 'init_readme.md'
+INIT_README:str = 'scripts/init_readme.md'
 FINAL_README:str = 'docs/index.md'
 
 def build_index(yaml_dump:str) -> None:

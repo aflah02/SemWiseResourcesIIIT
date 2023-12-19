@@ -1,4 +1,4 @@
-name: ci 
+name: Website CI
 on:
   workflow_dispatch:
   push:
