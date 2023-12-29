@@ -68,6 +68,11 @@
 ### DSCD
 - [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
 
+### FF
+- [14th and 15th edition of Fundamentals of Financial Management (Eugene F. Brigham, Joel F. Houston) along with some question papers of 2023](https://drive.google.com/drive/folders/11Ue8schvq-gOOQx3Mt5VFeVmCIpXKCBb?usp=sharing)
+- Do attend lectures as they are the most important source of learning in this course.
+- The make-up quiz is very hard, so try not to rely on it and work hard before each quiz.
+
 ### VPM
 - Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
 

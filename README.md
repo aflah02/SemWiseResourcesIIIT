@@ -20,7 +20,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](semester-2) | [DSA](semester-2#dsa) [P&S](semester-2#ps) [BE](semester-2#be) [CO](semester-2#co) |
 | [Semester 3](semester-3) | [AP](semester-3#ap) [OS](semester-3#os) [DM](semester-3#dm) [DS](semester-3#ds) [M3](semester-3#m3) [S&S](semester-3#ss) [KCES](semester-3#kces) |
 | [Semester 4](semester-4) | [DBMS](semester-4#dbms) [ITS](semester-4#its) [ADA](semester-4#ada) [M4](semester-4#m4) [PIS](semester-4#pis) [TOC](semester-4#toc) [SML](semester-4#sml) [PB](semester-4#pb) [GT](semester-4#gt) |
-| [Open Electives](open-electives) | [NLP](open-electives#nlp) [ML](open-electives#ml) [CN](open-electives#cn) [NSS-1](open-electives#nss-1) [RL](open-electives#rl) [CG](open-electives#cg) [EVS](open-electives#evs) [ATP](open-electives#atp) [GPU](open-electives#gpu) [DSCD](open-electives#dscd) <br><br>[VPM](open-electives#vpm) [DL](open-electives#dl) [IR](open-electives#ir) [DSc](open-electives#dsc) [WN](open-electives#wn) [QM](open-electives#qm) [GMT](open-electives#gmt) [iROB](open-electives#irob) [FCS](open-electives#fcs) |
+| [Open Electives](open-electives) | [NLP](open-electives#nlp) [ML](open-electives#ml) [CN](open-electives#cn) [NSS-1](open-electives#nss-1) [RL](open-electives#rl) [CG](open-electives#cg) [EVS](open-electives#evs) [ATP](open-electives#atp) [GPU](open-electives#gpu) [DSCD](open-electives#dscd) <br><br>[FF](open-electives#ff) [VPM](open-electives#vpm) [DL](open-electives#dl) [IR](open-electives#ir) [DSc](open-electives#dsc) [WN](open-electives#wn) [QM](open-electives#qm) [GMT](open-electives#gmt) [iROB](open-electives#irob) [FCS](open-electives#fcs) <br><br>|
 
 ## Semester 1
 ### IP
@@ -283,6 +283,11 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ### DSCD
 - [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
+
+### FF
+- [14th and 15th edition of Fundamentals of Financial Management (Eugene F. Brigham, Joel F. Houston) along with some question papers of 2023](https://drive.google.com/drive/folders/11Ue8schvq-gOOQx3Mt5VFeVmCIpXKCBb?usp=sharing)
+- Do attend lectures as they are the most important source of learning in this course.
+- The make-up quiz is very hard, so try not to rely on it and work hard before each quiz.
 
 ### VPM
 - Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
