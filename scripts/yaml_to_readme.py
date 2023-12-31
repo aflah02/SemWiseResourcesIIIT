@@ -15,7 +15,7 @@ def build_index(yaml_dump:str) -> str:
 
     # add the semesters
     for semester in yaml_dump.keys():
-        sem_link = semester.replace(' ', '-').lower()
+        sem_link = "#" + semester.replace(' ', '-').lower()
         readme += f"| [{semester}]({sem_link}) | "
         cnt = 0
         # add the courses
@@ -23,7 +23,7 @@ def build_index(yaml_dump:str) -> str:
             cnt += 1
             course_link = course.lower()
             # replace & with empty string
-            course_link = sem_link + "#" + course_link.replace('&', '')
+            course_link = "#" + course_link.replace('&', '')
             readme += f"[{course}]({course_link}) "
             if (cnt == 10):
                 readme += '<br><br>'
