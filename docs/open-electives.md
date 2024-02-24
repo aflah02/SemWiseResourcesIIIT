@@ -117,3 +117,8 @@
 - [Prof Ninja](https://prof.ninja)
 - Ofcourse, none of the above is "required" for the course and your proficiency is inversely proportional to the grade you might obtain
 
+### NSC
+> Do prev. years
+
+- [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
+
