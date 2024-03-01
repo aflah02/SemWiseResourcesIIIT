@@ -20,7 +20,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
 | [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) [KCES](#kces) |
 | [Semester 4](#semester-4) | [DBMS](#dbms) [ITS](#its) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) [PB](#pb) [GT](#gt) |
-| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) |
+| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) [COO](#coo) |
 
 ## Semester 1
 ### IP
@@ -336,6 +336,9 @@ The repository contains resources for IIITD courses. You can access the resource
 ### NSC
 > Do prev. years
 - [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
+
+### COO
+- [Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
 
 
 
