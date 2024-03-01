@@ -147,10 +147,6 @@ Semester 3:
   S&S: !!python/tuple
   - - '[Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)'
   - []
-  KCES: !!python/tuple
-  - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
-    - '[Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)'
-  - []
 Semester 4:
   DBMS: !!python/tuple
   - - '[Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)'
@@ -158,10 +154,6 @@ Semester 4:
     - '[If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)'
     - '[Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)'
     - '[Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)'
-  - []
-  ITS: !!python/tuple
-  - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
-    - '[Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)'
   - []
   ADA: !!python/tuple
   - - '[Winter''22 Lectures by Prof. Syamantak Das](https://sites.google.com/iiitd.ac.in/ada22/lectures-section-a)'
@@ -190,13 +182,6 @@ Semester 4:
     - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer
       (2006)]
     - contains wrong information or inconsistent with class.
-  - []
-  PB: !!python/tuple
-  - - www.google.com
-  - []
-  GT: !!python/tuple
-  - - Introduction to Graph Theory by Douglas B. West
-    - Note, the course is not on algorithms
   - []
 Open Electives:
   NLP: !!python/tuple
@@ -327,4 +312,19 @@ Open Electives:
   - - Do prev. years
   COO: !!python/tuple
   - - '[Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)'
+  - []
+  KCES: !!python/tuple
+  - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
+    - '[Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)'
+  - []
+  ITS: !!python/tuple
+  - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
+    - '[Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)'
+  - []
+  PB: !!python/tuple
+  - - www.google.com
+  - []
+  GT: !!python/tuple
+  - - Introduction to Graph Theory by Douglas B. West
+    - Note, the course is not on algorithms
   - []
