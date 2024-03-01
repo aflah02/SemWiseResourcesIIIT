@@ -325,3 +325,6 @@ Open Electives:
   NSC: !!python/tuple
   - - '[Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)'
   - - Do prev. years
+  COO: !!python/tuple
+  - - '[Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)'
+  - []
