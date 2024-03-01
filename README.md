@@ -18,9 +18,9 @@ The repository contains resources for IIITD courses. You can access the resource
 | --- | --- |
 | [Semester 1](#semester-1) | [IP](#ip) [DC](#dc) [LA](#la) [HCI](#hci) [COM](#com) |
 | [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
-| [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) [KCES](#kces) |
-| [Semester 4](#semester-4) | [DBMS](#dbms) [ITS](#its) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) [PB](#pb) [GT](#gt) |
-| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) [COO](#coo) |
+| [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) |
+| [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) |
+| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) |
 
 ## Semester 1
 ### IP
@@ -164,10 +164,6 @@ The repository contains resources for IIITD courses. You can access the resource
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
 
-### KCES
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
 
 ## Semester 4
 ### DBMS
@@ -176,10 +172,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
 - [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
 - [Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
-
-### ITS
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 
 ### ADA
 - [Winter'22 Lectures by Prof. Syamantak Das](https://sites.google.com/iiitd.ac.in/ada22/lectures-section-a)
@@ -206,13 +198,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - The above is not an API only page, you will find a lot of content for reading.
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
 - contains wrong information or inconsistent with class.
-
-### PB
-- www.google.com
-
-### GT
-- Introduction to Graph Theory by Douglas B. West
-- Note, the course is not on algorithms
 
 
 ## Open Electives
@@ -339,6 +324,21 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ### COO
 - [Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
+
+### KCES
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### ITS
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### PB
+- www.google.com
+
+### GT
+- Introduction to Graph Theory by Douglas B. West
+- Note, the course is not on algorithms
 
 
 

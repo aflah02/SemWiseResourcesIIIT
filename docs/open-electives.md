@@ -125,3 +125,18 @@
 ### COO
 - [Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
 
+### KCES
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### ITS
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### PB
+- www.google.com
+
+### GT
+- Introduction to Graph Theory by Douglas B. West
+- Note, the course is not on algorithms
+

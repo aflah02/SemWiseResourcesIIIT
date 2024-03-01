@@ -39,7 +39,3 @@
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
 
-### KCES
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
