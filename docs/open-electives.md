@@ -67,6 +67,11 @@
 
 ### DSCD
 - [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
+- [RPC/gRPC](https://www.youtube.com/watch?v=gnchfOojMk4)
+- [Network Time Protocol (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)
+- [RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw&pp=ygUIcmFiYml0bXE%3D)
+- [Distributed Systems by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Sequential and Causal Consistency](https://www.youtube.com/watch?v=dHgvQXnZ7Gw)
 
 ### FF
 - [14th and 15th edition of Fundamentals of Financial Management (Eugene F. Brigham, Joel F. Houston) along with some question papers of 2023](https://drive.google.com/drive/folders/11Ue8schvq-gOOQx3Mt5VFeVmCIpXKCBb?usp=sharing)
@@ -121,6 +126,10 @@
 > Do prev. years
 
 - [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
+- [RSA (With Extended Euclidean Algorithm)](https://www.youtube.com/watch?v=kYasb426Yjk)
+- [Linear Feedback Shift Register](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+- [Public Key Cryptography](https://www.youtube.com/watch?v=Ks1pw1X22y4)
+- [Key Distribution Center (KDC)](https://www.youtube.com/watch?v=6bUNDR5Zhiw)
 
 ### COO
 - [Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
