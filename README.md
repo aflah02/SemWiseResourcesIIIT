@@ -273,6 +273,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw&pp=ygUIcmFiYml0bXE%3D)
 - [Distributed Systems by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Sequential and Causal Consistency](https://www.youtube.com/watch?v=dHgvQXnZ7Gw)
+- [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
 
 ### FF
 - [14th and 15th edition of Fundamentals of Financial Management (Eugene F. Brigham, Joel F. Houston) along with some question papers of 2023](https://drive.google.com/drive/folders/11Ue8schvq-gOOQx3Mt5VFeVmCIpXKCBb?usp=sharing)
