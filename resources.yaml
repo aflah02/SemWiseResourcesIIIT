@@ -332,6 +332,7 @@ Open Electives:
     - '[Game Theory Related Stuff](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)'
     - '[Sensitivity Analysis](https://www.youtube.com/watch?v=5Pgxo_7bNa8)'
     - "[Game Theory Lectures: The playlist has very good proofs for Sperner's Lemma and Brouwer's Fixed Point Theorem](https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep)"
+    - Anti-recommendation --> lecture notes
   - []
   KCES: !!python/tuple
   - - '[Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'
@@ -347,4 +348,12 @@ Open Electives:
   GT: !!python/tuple
   - - Introduction to Graph Theory by Douglas B. West
     - Note, the course is not on algorithms
+  - []
+  InT: !!python/tuple
+  - - Handwritten notes of '[Prof. Manuj Mukherjee](https://sites.google.com/view/manuj-mukherjee/teaching)'
+    - Reference book is mostly not needed. Attend classes for this course, this might be the best course you have seen in the college
+  - []
+  PRMP: !!python/tuple
+  - - Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
+    - Most of the course is discussing research papers. Additional resources not needed
   - []
