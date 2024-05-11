@@ -20,7 +20,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
 | [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) |
 | [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) |
-| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) |
+| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) [InT](#int) [PRMP](#prmp) |
 
 ## Semester 1
 ### IP
@@ -344,6 +344,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Game Theory Related Stuff](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)
 - [Sensitivity Analysis](https://www.youtube.com/watch?v=5Pgxo_7bNa8)
 - [Game Theory Lectures: The playlist has very good proofs for Sperner's Lemma and Brouwer's Fixed Point Theorem](https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep)
+- Anti-recommendation --> lecture notes
 
 ### KCES
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -359,6 +360,14 @@ The repository contains resources for IIITD courses. You can access the resource
 ### GT
 - Introduction to Graph Theory by Douglas B. West
 - Note, the course is not on algorithms
+
+### InT
+- Handwritten notes of '[Prof. Manuj Mukherjee](https://sites.google.com/view/manuj-mukherjee/teaching)'
+- Reference book is mostly not needed. Attend classes for this course, this might be the best course you have seen in the college
+
+### PRMP
+- Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
+- Most of the course is discussing research papers. Additional resources not needed
 
 
 
