@@ -27,6 +27,14 @@
 - Buffer Overflow and Format String Vulnerability - [Team bi0s wiki](https://wiki.bi0s.in/pwning/stack-overflow/intro/) and [This binary exploitation notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
 - Lectures the biggest resource, right after asking the prof for doubts
 
+### NSS-2
+> This course is very hands on. Expect to be reading lots of man pages, documentation, and setting up things. Some concepts of NSS-1 are talked about in brief. Use the previous resources to brush up your knowledge.
+
+- [Tor white paper](https://spec.torproject.org/tor-design)
+- Lots of papers exist on attacks against Tor. Prof will post resources on gc.
+- [Active Directory](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology) Lots of extra material here as well. Only do what's necessary
+- Just attend lectures and read notes. Should be sufficient.
+
 ### RL
 - [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - [Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)
@@ -46,6 +54,10 @@
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
 - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
 - docs.gl
+
+### CV
+- [Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
+- [CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)
 
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
@@ -168,5 +180,6 @@
 
 ### PRMP
 - Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
+- [gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K) You would need it (seriously)
 - Most of the course is discussing research papers. Additional resources not needed
 

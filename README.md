@@ -20,7 +20,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
 | [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) |
 | [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) |
-| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [RL](#rl) [CG](#cg) [EVS](#evs) [ATP](#atp) [GPU](#gpu) [DSCD](#dscd) <br><br>[FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) [iROB](#irob) [FCS](#fcs) <br><br>[NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) [InT](#int) [PRMP](#prmp) |
+| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [NSS-2](#nss-2) [RL](#rl) [CG](#cg) [CV](#cv) [EVS](#evs) [ATP](#atp) <br><br>[GPU](#gpu) [DSCD](#dscd) [FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) <br><br>[iROB](#irob) [FCS](#fcs) [NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) [InT](#int) [PRMP](#prmp) <br><br>|
 
 ## Semester 1
 ### IP
@@ -229,6 +229,13 @@ The repository contains resources for IIITD courses. You can access the resource
 - Buffer Overflow and Format String Vulnerability - [Team bi0s wiki](https://wiki.bi0s.in/pwning/stack-overflow/intro/) and [This binary exploitation notes](https://ir0nstone.gitbook.io/notes/types/stack/introduction)
 - Lectures the biggest resource, right after asking the prof for doubts
 
+### NSS-2
+> This course is very hands on. Expect to be reading lots of man pages, documentation, and setting up things. Some concepts of NSS-1 are talked about in brief. Use the previous resources to brush up your knowledge.
+- [Tor white paper](https://spec.torproject.org/tor-design)
+- Lots of papers exist on attacks against Tor. Prof will post resources on gc.
+- [Active Directory](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology) Lots of extra material here as well. Only do what's necessary
+- Just attend lectures and read notes. Should be sufficient.
+
 ### RL
 - [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - [Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)
@@ -248,6 +255,10 @@ The repository contains resources for IIITD courses. You can access the resource
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
 - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
 - docs.gl
+
+### CV
+- [Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
+- [CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)
 
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
@@ -368,6 +379,7 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ### PRMP
 - Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
+- [gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K) You would need it (seriously)
 - Most of the course is discussing research papers. Additional resources not needed
 
 
