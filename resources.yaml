@@ -244,6 +244,10 @@ Open Electives:
     - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
     - docs.gl
   - []
+  CV: !!python/tuple
+  - - '[Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)'
+    - '[CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)'
+  - []
   EVS: !!python/tuple
   - - '[All answers compiled](https://chat.openai.com/)'
   - []
@@ -364,5 +368,6 @@ Open Electives:
   - []
   PRMP: !!python/tuple
   - - Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
+    - '[gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K)'. You would need it (seriously)
     - Most of the course is discussing research papers. Additional resources not needed
   - []
