@@ -2,10 +2,6 @@
 
 Maintainers:
 
-Sure, here is the information converted into a table format:
-
-Here is the information converted into a table with two columns: "Name" (with link) and "Timeline":
-
 | Name                              | Timeline          |
 |-----------------------------------|-------------------|
 | [Mohammad Aflah Khan](https://aflah02.github.io/)  | 2021 (Creation) - May 2024   |
