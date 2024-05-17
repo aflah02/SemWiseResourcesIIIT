@@ -368,6 +368,6 @@ Open Electives:
   - []
   PRMP: !!python/tuple
   - - Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
-    - '[gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K)'. You would need it (seriously)
+    - '[gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K) You would need it (seriously)' 
     - Most of the course is discussing research papers. Additional resources not needed
   - []
