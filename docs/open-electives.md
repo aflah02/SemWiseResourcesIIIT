@@ -82,7 +82,7 @@
 - [RPC/gRPC](https://www.youtube.com/watch?v=gnchfOojMk4)
 - [Network Time Protocol (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 - [RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw&pp=ygUIcmFiYml0bXE%3D)
-- [Distributed Systems by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Distributed Systems by Martin Kleppmann (Good Watch)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Sequential and Causal Consistency](https://www.youtube.com/watch?v=dHgvQXnZ7Gw)
 - [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
 

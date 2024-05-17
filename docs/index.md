@@ -1,5 +1,16 @@
 # IIITD Resources
 
+Maintainers:
+
+Sure, here is the information converted into a table format:
+
+Here is the information converted into a table with two columns: "Name" (with link) and "Timeline":
+
+| Name                              | Timeline          |
+|-----------------------------------|-------------------|
+| [Mohammad Aflah Khan](https://aflah02.github.io/)  | 2021 (Creation) - May 2024   |
+| [Anirudh S. Kumar](https://github.com/Anirudh-S-Kumar) | May 2024 - Present |
+
 Contributors:
 
 <a href="https://github.com/aflah02/SemWiseResourcesIIIT/graphs/contributors">

@@ -1,5 +1,16 @@
 # IIITD Resources
 
+Maintainers:
+
+Sure, here is the information converted into a table format:
+
+Here is the information converted into a table with two columns: "Name" (with link) and "Timeline":
+
+| Name                              | Timeline          |
+|-----------------------------------|-------------------|
+| [Mohammad Aflah Khan](https://aflah02.github.io/)  | 2021 (Creation) - May 2024   |
+| [Anirudh S. Kumar](https://github.com/Anirudh-S-Kumar) | May 2024 - Present |
+
 Contributors:
 
 <a href="https://github.com/aflah02/SemWiseResourcesIIIT/graphs/contributors">
@@ -282,7 +293,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [RPC/gRPC](https://www.youtube.com/watch?v=gnchfOojMk4)
 - [Network Time Protocol (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)
 - [RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw&pp=ygUIcmFiYml0bXE%3D)
-- [Distributed Systems by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Distributed Systems by Martin Kleppmann (Good Watch)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Sequential and Causal Consistency](https://www.youtube.com/watch?v=dHgvQXnZ7Gw)
 - [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
 
