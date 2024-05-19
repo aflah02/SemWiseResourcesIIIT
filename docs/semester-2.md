@@ -27,4 +27,4 @@
 ### CO
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
-
+- [CO + CA notes](https://yash-keswani.github.io/iiitd_notes/CSE112_CO/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
