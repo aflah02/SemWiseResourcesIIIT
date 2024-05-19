@@ -4,18 +4,21 @@
 - [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
 - [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
 - [Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
+- [DBMS notes](https://yash-keswani.github.io/iiitd_notes/CSE202_DBMS/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### ADA
 - [Winter'22 Lectures by Prof. Syamantak Das](https://sites.google.com/iiitd.ac.in/ada22/lectures-section-a)
 - Abdul Bari
 - Pepcoding
 - William Fiset
+- [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### M4
 - Do The Book
 - Do The Book
 - Do The Book
 - Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone else has a video on it
+- [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### PIS
 - IDK NO THEORY
