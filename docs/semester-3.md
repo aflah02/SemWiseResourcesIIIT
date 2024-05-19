@@ -7,11 +7,11 @@
 - [Drawing UML Diagrams](https://www.youtube.com/watch?v=UI6lqHOVHic)
 - [Drawing UML Sequence Diagrams](https://youtu.be/pCK6prSq8aw)
 - [Drawing Use Case Diagrams](https://www.youtube.com/watch?v=zid-MVo7M-E)
-- [AP notes](https://drive.google.com/drive/folders/1ZIvj8PdBLz9npM0HqFZTogVC1fpF16Jk) by [(Yash Keswani](https://github.com/Yash-Keswani)
+- [AP notes](https://drive.google.com/drive/folders/1ZIvj8PdBLz9npM0HqFZTogVC1fpF16Jk) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
-- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy) by [(Yash Keswani](https://github.com/Yash-Keswani)
+- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 - [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
 - [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 - [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
@@ -24,7 +24,7 @@
 - [WOP 1](https://www.youtube.com/watch?v=fV3v6qQ3w4A), [WOP 2](https://www.youtube.com/watch?v=I1HpgnWQI7I)
 - [Pigeonholes and nest (for assignments ;))](https://www.cut-the-knot.org/do_you_know/pigeon.shtml)
 - [Cut the knot (collection of nice math)](https://www.cut-the-knot.org/)
-- [DM notes](https://drive.google.com/drive/folders/1lsZc35O1VzskC9VSLlGXl1ZVPm6RZhXP) by [(Yash Keswani](https://github.com/Yash-Keswani)
+- [DM notes](https://drive.google.com/drive/folders/1lsZc35O1VzskC9VSLlGXl1ZVPm6RZhXP) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### DS
 - [DS Cheatsheet by Anirudh](https://github.com/Anirudh-S-Kumar/DS-Theorems)
@@ -37,7 +37,7 @@
 - [Full Playlist by Dr. Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfIIEY1wEAsVWdW-R_A1-KBJ)
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
-- [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani](https://github.com/Yash-Keswani)
+- [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
