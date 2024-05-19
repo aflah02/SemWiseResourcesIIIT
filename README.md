@@ -127,6 +127,7 @@ The repository contains resources for IIITD courses. You can access the resource
 ### CO
 - [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 - [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
+- [CO + CA notes](https://yash-keswani.github.io/iiitd_notes/CSE112_CO/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 
 ## Semester 3
@@ -155,6 +156,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [WOP 1](https://www.youtube.com/watch?v=fV3v6qQ3w4A), [WOP 2](https://www.youtube.com/watch?v=I1HpgnWQI7I)
 - [Pigeonholes and nest (for assignments ;))](https://www.cut-the-knot.org/do_you_know/pigeon.shtml)
 - [Cut the knot (collection of nice math)](https://www.cut-the-knot.org/)
+- [DM notes](https://drive.google.com/drive/folders/1lsZc35O1VzskC9VSLlGXl1ZVPm6RZhXP) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### DS
 - [DS Cheatsheet by Anirudh](https://github.com/Anirudh-S-Kumar/DS-Theorems)
@@ -167,6 +169,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Full Playlist by Dr. Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfIIEY1wEAsVWdW-R_A1-KBJ)
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
+- [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
@@ -179,18 +182,21 @@ The repository contains resources for IIITD courses. You can access the resource
 - [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
 - [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
 - [Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
+- [DBMS notes](https://yash-keswani.github.io/iiitd_notes/CSE202_DBMS/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### ADA
 - [Winter'22 Lectures by Prof. Syamantak Das](https://sites.google.com/iiitd.ac.in/ada22/lectures-section-a)
 - Abdul Bari
 - Pepcoding
 - William Fiset
+- [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### M4
 - Do The Book
 - Do The Book
 - Do The Book
 - Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone else has a video on it
+- [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### PIS
 - IDK NO THEORY

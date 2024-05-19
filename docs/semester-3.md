@@ -7,11 +7,10 @@
 - [Drawing UML Diagrams](https://www.youtube.com/watch?v=UI6lqHOVHic)
 - [Drawing UML Sequence Diagrams](https://youtu.be/pCK6prSq8aw)
 - [Drawing Use Case Diagrams](https://www.youtube.com/watch?v=zid-MVo7M-E)
-- [AP notes](https://drive.google.com/drive/folders/1ZIvj8PdBLz9npM0HqFZTogVC1fpF16Jk) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### OS
 - [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
-- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keswani 2020158)](https://github.com/Yash-Keswani)
 - [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
 - [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
 - [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
