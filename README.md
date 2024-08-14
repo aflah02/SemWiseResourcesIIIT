@@ -49,6 +49,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Matplotlib Basics in 6 Min](https://www.youtube.com/watch?v=nzKy9GY12yo)
 - [Basic Numpy in 13 Min](https://www.youtube.com/watch?v=xECXZ3tyONo)
 - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
+- [Pattern Questions by Striver](https://youtu.be/tNm_NNSB3_w?si=7h28Okh_P9s9IJ_R)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
@@ -99,6 +100,7 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ## Semester 2
 ### DSA
+- [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [DSA Abdul Bari Sir](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 - [Java Code with Harry Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
@@ -170,6 +172,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
 - [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+- [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
@@ -190,6 +193,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - Pepcoding
 - William Fiset
 - [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+- [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 
 ### M4
 - Do The Book
@@ -231,6 +235,8 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Kurose](https://www.youtube.com/@JimKurose)
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
+- [Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Knowledge Gate](https://youtu.be/q3Z3Qa1UNBA?si=lUORrMr_d8T0fFpJ)
 
 ### NSS-1
 > If you want an easier time with the course, take it in the 7th semester after doing CN and maybe FCS(do note these are two very different courses)
