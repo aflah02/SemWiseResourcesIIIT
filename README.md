@@ -26,7 +26,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 1](#semester-1) | [IP](#ip) [DC](#dc) [LA](#la) [HCI](#hci) [COM](#com) |
 | [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
 | [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) |
-| [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) |
+| [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) [NN](#nn) |
 | [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [NSS-2](#nss-2) [RL](#rl) [CG](#cg) [CV](#cv) [EVS](#evs) [ATP](#atp) <br><br>[GPU](#gpu) [DSCD](#dscd) [FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) <br><br>[iROB](#irob) [FCS](#fcs) [NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) [InT](#int) [PRMP](#prmp) <br><br>|
 
 ## Semester 1
@@ -49,6 +49,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Matplotlib Basics in 6 Min](https://www.youtube.com/watch?v=nzKy9GY12yo)
 - [Basic Numpy in 13 Min](https://www.youtube.com/watch?v=xECXZ3tyONo)
 - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
+- [Pattern Questions by Striver](https://youtu.be/tNm_NNSB3_w?si=7h28Okh_P9s9IJ_R)
 
 ### DC
 - [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
@@ -99,6 +100,7 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ## Semester 2
 ### DSA
+- [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [DSA Abdul Bari Sir](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 - [Java Code with Harry Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
@@ -109,6 +111,8 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Recursion by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuGnDghDhlD2tjePJ7Ej-rA)
 - [Backtracking by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtkuz3MoLFuBKYmlk52tyaM)
 - [Java Foundation by PepCoding](https://www.pepcoding.com/resources/online-java-foundation)
+- [DS Knowledge Gate One Shot](https://www.youtube.com/watch?v=MdG0Vw9f1A4)
+- [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
 
 ### P&S
 - [Crash Course On Complete Probability And Statistics](https://www.youtube.com/watch?v=YBG3fIdbrMg)
@@ -170,6 +174,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
 - [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+- [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
@@ -190,7 +195,9 @@ The repository contains resources for IIITD courses. You can access the resource
 - Pepcoding
 - William Fiset
 - [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
-
+- [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+- [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
+  
 ### M4
 - Do The Book
 - Do The Book
@@ -199,7 +206,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### PIS
-- IDK NO THEORY
+- [PIS Notes& Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
 
 ### TOC
 - [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
@@ -212,7 +219,9 @@ The repository contains resources for IIITD courses. You can access the resource
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
 - contains wrong information or inconsistent with class.
 
-
+### NN
+- [NN Notes& Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
+  
 ## Open Electives
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
@@ -231,6 +240,8 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Kurose](https://www.youtube.com/@JimKurose)
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
+- [Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Knowledge Gate](https://youtu.be/q3Z3Qa1UNBA?si=lUORrMr_d8T0fFpJ)
 
 ### NSS-1
 > If you want an easier time with the course, take it in the 7th semester after doing CN and maybe FCS(do note these are two very different courses)
