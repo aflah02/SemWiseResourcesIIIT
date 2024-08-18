@@ -26,7 +26,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 1](#semester-1) | [IP](#ip) [DC](#dc) [LA](#la) [HCI](#hci) [COM](#com) |
 | [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
 | [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) |
-| [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) |
+| [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) [NN](#nn)|
 | [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [NSS-2](#nss-2) [RL](#rl) [CG](#cg) [CV](#cv) [EVS](#evs) [ATP](#atp) <br><br>[GPU](#gpu) [DSCD](#dscd) [FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) <br><br>[iROB](#irob) [FCS](#fcs) [NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) [InT](#int) [PRMP](#prmp) <br><br>|
 
 ## Semester 1
@@ -199,7 +199,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### PIS
-- IDK NO THEORY
+- [PIS Notes& Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
 
 ### TOC
 - [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
@@ -212,6 +212,8 @@ The repository contains resources for IIITD courses. You can access the resource
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
 - contains wrong information or inconsistent with class.
 
+### NN
+- [NN Notes& Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
 
 ## Open Electives
 ### NLP
