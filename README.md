@@ -112,7 +112,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Backtracking by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtkuz3MoLFuBKYmlk52tyaM)
 - [Java Foundation by PepCoding](https://www.pepcoding.com/resources/online-java-foundation)
 - [DS Knowledge Gate One Shot](https://www.youtube.com/watch?v=MdG0Vw9f1A4)
-- [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
+- [Algo Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
 
 ### P&S
 - [Crash Course On Complete Probability And Statistics](https://www.youtube.com/watch?v=YBG3fIdbrMg)
@@ -197,7 +197,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 - [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
-  
+
 ### M4
 - Do The Book
 - Do The Book
@@ -206,7 +206,7 @@ The repository contains resources for IIITD courses. You can access the resource
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### PIS
-- [PIS Notes& Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
+- [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
 
 ### TOC
 - [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
@@ -220,8 +220,9 @@ The repository contains resources for IIITD courses. You can access the resource
 - contains wrong information or inconsistent with class.
 
 ### NN
-- [NN Notes& Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
-  
+- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
+
+
 ## Open Electives
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)

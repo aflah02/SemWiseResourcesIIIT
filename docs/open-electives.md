@@ -15,6 +15,8 @@
 - [Kurose](https://www.youtube.com/@JimKurose)
 - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
 - [Computerphile for some topics](https://www.youtube.com/@Computerphile)
+- [Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Knowledge Gate](https://youtu.be/q3Z3Qa1UNBA?si=lUORrMr_d8T0fFpJ)
 
 ### NSS-1
 > If you want an easier time with the course, take it in the 7th semester after doing CN and maybe FCS(do note these are two very different courses)

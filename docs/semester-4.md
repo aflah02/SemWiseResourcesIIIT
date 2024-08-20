@@ -12,6 +12,8 @@
 - Pepcoding
 - William Fiset
 - [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+- [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+- [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
 
 ### M4
 - Do The Book
@@ -21,7 +23,7 @@
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### PIS
-- IDK NO THEORY
+- [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
 
 ### TOC
 - [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
@@ -33,4 +35,7 @@
 - The above is not an API only page, you will find a lot of content for reading.
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
 - contains wrong information or inconsistent with class.
+
+### NN
+- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
 

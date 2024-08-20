@@ -1,4 +1,5 @@
 ### DSA
+- [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [DSA Abdul Bari Sir](https://www.youtube.com/playlist?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
 - [Java Code with Harry Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
@@ -9,6 +10,8 @@
 - [Recursion by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuGnDghDhlD2tjePJ7Ej-rA)
 - [Backtracking by CB](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtkuz3MoLFuBKYmlk52tyaM)
 - [Java Foundation by PepCoding](https://www.pepcoding.com/resources/online-java-foundation)
+- [DS Knowledge Gate One Shot](https://www.youtube.com/watch?v=MdG0Vw9f1A4)
+- [Algo Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
 
 ### P&S
 - [Crash Course On Complete Probability And Statistics](https://www.youtube.com/watch?v=YBG3fIdbrMg)

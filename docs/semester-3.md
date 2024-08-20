@@ -37,6 +37,7 @@
 - [Crash Course on Vector Calculus](https://www.youtube.com/watch?v=tAmZ2F8RPmc)
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
 - [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+- [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
