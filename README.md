@@ -21,15 +21,53 @@ The repository contains resources for IIITD courses. You can access the resource
 
 > Note: The process has recently changed (December 2023) and the changes now need to go to `resources.yaml` and not to `README.md` directly
 
+## Some General Important Links
+
+- [Course Books](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
+- [Course Materials](https://drive.google.com/drive/folders/1NQgofx-SXGDb64oLpFIliR7waYfM9qvk) (maintained by [Atharv Goel](https://github.com/Zynade)) 
+
+
+## Quick Links
 | Semester | Courses |
 | --- | --- |
-| [Semester 1](#semester-1) | [IP](#ip) [DC](#dc) [LA](#la) [HCI](#hci) [COM](#com) |
-| [Semester 2](#semester-2) | [DSA](#dsa) [P&S](#ps) [BE](#be) [CO](#co) |
-| [Semester 3](#semester-3) | [AP](#ap) [OS](#os) [DM](#dm) [DS](#ds) [M3](#m3) [S&S](#ss) |
-| [Semester 4](#semester-4) | [DBMS](#dbms) [ADA](#ada) [M4](#m4) [PIS](#pis) [TOC](#toc) [SML](#sml) [NN](#nn) |
-| [Open Electives](#open-electives) | [NLP](#nlp) [ML](#ml) [CN](#cn) [NSS-1](#nss-1) [NSS-2](#nss-2) [RL](#rl) [CG](#cg) [CV](#cv) [EVS](#evs) [ATP](#atp) <br><br>[GPU](#gpu) [DSCD](#dscd) [FF](#ff) [VPM](#vpm) [DL](#dl) [IR](#ir) [DSc](#dsc) [WN](#wn) [QM](#qm) [GMT](#gmt) <br><br>[iROB](#irob) [FCS](#fcs) [NSC](#nsc) [COO](#coo) [KCES](#kces) [ITS](#its) [PB](#pb) [GT](#gt) [InT](#int) [PRMP](#prmp) <br><br>|
+| [Semester 1](#semester-1) | [COM](#com) [DC](#dc) [HCI](#hci) [IP](#ip) [LA](#la) |
+| [Semester 2](#semester-2) | [BE](#be) [CO](#co) [DSA](#dsa) [P&S](#ps) |
+| [Semester 3](#semester-3) | [AP](#ap) [DM](#dm) [DS](#ds) [M3](#m3) [OS](#os) [S&S](#ss) |
+| [Semester 4](#semester-4) | [ADA](#ada) [DBMS](#dbms) [M4](#m4) [NN](#nn) [PIS](#pis) [SML](#sml) [TOC](#toc) |
+| [Open Electives](#open-electives) | [ATP](#atp) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) [EVS](#evs) [FCS](#fcs) <br><br>[FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) [KCES](#kces) [ML](#ml) [NLP](#nlp) <br><br>[NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) [RL](#rl) [VPM](#vpm) [WN](#wn) [iROB](#irob) <br><br>|
 
 ## Semester 1
+### COM
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### DC
+- [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+- [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
+- [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
+- [Aasaan Padhai Some Good DC Content in Hindi](https://www.youtube.com/channel/UCECthWmk5_sRaE8OCbO_Gag/featured)
+- [Tristate Buffers Short Vid](https://www.youtube.com/watch?v=X2HPjppH7Rs), [Tristate Buffers Longer Vid](https://www.youtube.com/watch?v=2TgCKazwNFk)
+- [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
+- [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
+- [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
+- [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
+- [Online Circuit Simulation using Circuitverse](https://circuitverse.org/)
+- [All gates using MUXs](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/#:~:text=Implementation%20of%20NAND%2C%20NOR%2C%20XOR,input%20to%20the%20second%20multiplexer.&text=Three(3)%20%E2%80%8B2%20%3A,to%20implement%204%20%3A%201%20MUX.)
+- [All gates using NAND Gate](https://en.wikipedia.org/wiki/NAND_logic)
+- [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
+- [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
+- [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
+- [One Shot End Semester Video (6h)](https://www.youtube.com/watch?v=pHNbm-4reIc)
+
+### HCI
+- [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
+- [Prototyping Tool Figma](https://figma.com)
+- [Figma Tutorial in 40 mins](https://www.youtube.com/watch?v=4W4LvJnNegA)
+- [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
+- [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
+- [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+
 ### IP
 - [Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 - [Code with Harry Python Playlist Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
@@ -51,25 +89,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
 - [Pattern Questions by Striver](https://youtu.be/tNm_NNSB3_w?si=7h28Okh_P9s9IJ_R)
 
-### DC
-- [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
-- [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
-- [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
-- [Aasaan Padhai Some Good DC Content in Hindi](https://www.youtube.com/channel/UCECthWmk5_sRaE8OCbO_Gag/featured)
-- [Tristate Buffers Short Vid](https://www.youtube.com/watch?v=X2HPjppH7Rs), [Tristate Buffers Longer Vid](https://www.youtube.com/watch?v=2TgCKazwNFk)
-- [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-- Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
-- [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
-- [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
-- [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
-- [Online Circuit Simulation using Circuitverse](https://circuitverse.org/)
-- [All gates using MUXs](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/#:~:text=Implementation%20of%20NAND%2C%20NOR%2C%20XOR,input%20to%20the%20second%20multiplexer.&text=Three(3)%20%E2%80%8B2%20%3A,to%20implement%204%20%3A%201%20MUX.)
-- [All gates using NAND Gate](https://en.wikipedia.org/wiki/NAND_logic)
-- [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
-- [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
-- [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
-- [One Shot End Semester Video (6h)](https://www.youtube.com/watch?v=pHNbm-4reIc)
-
 ### LA
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
@@ -85,20 +104,19 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Matrix Inverse Calculator](https://matrix.reshish.com/inverse.php)
 - [Eigenvalue and Eigenvector Calculator](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
 
-### HCI
-- [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
-- [Prototyping Tool Figma](figma.com)
-- [Figma Tutorial in 40 mins](https://www.youtube.com/watch?v=4W4LvJnNegA)
-- [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
-- [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
-- [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
-
-### COM
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
 
 ## Semester 2
+### BE
+- [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
+- [Basics of Electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL)
+- [Analog Electronics Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
+- [Network Theory Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh)
+
+### CO
+- [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
+- [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
+- [CO + CA notes](https://yash-keswani.github.io/iiitd_notes/CSE112_CO/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+
 ### DSA
 - [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
@@ -122,17 +140,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Introduction to Probability and Statistics for Engineers and Scientists 3E](http://www.r-5.org/files/books/computers/algo-list/statistics/probability/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 - [Solutions to Introduction to Probability and Statistics for Engineers and Scientists 5E](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf)
 
-### BE
-- [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
-- [Basics of Electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL)
-- [Analog Electronics Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
-- [Network Theory Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh)
-
-### CO
-- [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
-- [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
-- [CO + CA notes](https://yash-keswani.github.io/iiitd_notes/CSE112_CO/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
-
 
 ## Semester 3
 ### AP
@@ -144,15 +151,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Drawing UML Diagrams](https://www.youtube.com/watch?v=UI6lqHOVHic)
 - [Drawing UML Sequence Diagrams](https://youtu.be/pCK6prSq8aw)
 - [Drawing Use Case Diagrams](https://www.youtube.com/watch?v=zid-MVo7M-E)
-
-### OS
-- [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
-- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keswani 2020158)](https://github.com/Yash-Keswani)
-- [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
-- [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
-- [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
-- [Ostep: Three easy pieces (which are really easy)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Ostep: Homework (and simulations with solutions in github repo)](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
 
 ### DM
 - [DM Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
@@ -176,19 +174,20 @@ The repository contains resources for IIITD courses. You can access the resource
 - [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 - [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 
+### OS
+- [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
+- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keswani 2020158)](https://github.com/Yash-Keswani)
+- [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
+- [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
+- [Ostep: Three easy pieces (which are really easy)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Ostep: Homework (and simulations with solutions in github repo)](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
+
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
 
 
 ## Semester 4
-### DBMS
-- [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
-- [Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
-- [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
-- [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
-- [Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
-- [DBMS notes](https://yash-keswani.github.io/iiitd_notes/CSE202_DBMS/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
-
 ### ADA
 - [Winter'22 Lectures by Prof. Syamantak Das](https://sites.google.com/iiitd.ac.in/ada22/lectures-section-a)
 - Abdul Bari
@@ -198,6 +197,14 @@ The repository contains resources for IIITD courses. You can access the resource
 - [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
 
+### DBMS
+- [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
+- [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
+- [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
+- [Manga](https://oberstar.eu.org/share/Documents/The-Manga-guide-to-databases.pdf)
+- [DBMS notes](https://yash-keswani.github.io/iiitd_notes/CSE202_DBMS/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+
 ### M4
 - Do The Book
 - Do The Book
@@ -205,13 +212,11 @@ The repository contains resources for IIITD courses. You can access the resource
 - Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone else has a video on it
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
+### NN
+- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
+
 ### PIS
 - [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
-
-### TOC
-- [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
-- [Spiser Lectures on YouTube](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
-- [Kozen Book](https://drive.google.com/file/d/1L9elxZtwFrM7g8hI8xxmL_KoSRTNPpLB/view?usp=sharing)
 
 ### SML
 - Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
@@ -219,11 +224,124 @@ The repository contains resources for IIITD courses. You can access the resource
 - Do not do [Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)]
 - contains wrong information or inconsistent with class.
 
-### NN
-- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
+### TOC
+- [Sipser Book](https://drive.google.com/file/d/1E0WxGTzNJTrv9HeTR67EY659hfAKmiHt/view?usp=sharing)
+- [Spiser Lectures on YouTube](https://youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+- [Kozen Book](https://drive.google.com/file/d/1L9elxZtwFrM7g8hI8xxmL_KoSRTNPpLB/view?usp=sharing)
 
 
 ## Open Electives
+### ATP
+> Late Dropped by Contributor
+- [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
+- [Stroop Task](https://www.youtube.com/watch?v=reUic5tyVwo)
+- [Action Potential](https://www.youtube.com/watch?v=W2hHt_PXe5o)
+- [Intracellular & Extracellular Recording](https://www.youtube.com/watch?v=LyBPd53cSPI)
+- [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
+- [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
+
+### CG
+- Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
+- SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
+- docs.gl
+
+### CN
+- [Kurose](https://www.youtube.com/@JimKurose)
+- [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
+- [Computerphile for some topics](https://www.youtube.com/@Computerphile)
+- [Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8)
+- [Knowledge Gate](https://youtu.be/q3Z3Qa1UNBA?si=lUORrMr_d8T0fFpJ)
+
+### COO
+- [Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
+- [Totally Unimodular Matrices](https://www.youtube.com/watch?v=3BPHGeWuAyA)
+- [Totally Unimodular Matrices: More Indepth](https://www.youtube.com/watch?v=Fmjy74c-R-I)
+- [Convex Cones and Farkas' Lemma](https://www.youtube.com/watch?v=uBjv6zFIs9M)
+- [Fair and Envy-Free Cake Cutting](https://www.youtube.com/watch?v=cBjvsbRu6Gc)
+- [Assignment Problem: Integer Linear Programming](https://www.youtube.com/watch?v=NxtXYV1ECVM)
+- [Playlist with some stuff on NLPP](https://www.youtube.com/playlist?list=PLm_MSClsnwm8ZKue0FAIDObAVKd3dfBSh)
+- [Lecture 15 and 16 for Primal to Dual Conversion](https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsSofO4UaRyEXZDtm7a)
+- [Page 2 for Epigraph related stuff](https://miralab.ai/courses/ML2021Fall/slides/Lec07-ConvexFunctions.pdf)
+- [Game Theory Related Stuff](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)
+- [Sensitivity Analysis](https://www.youtube.com/watch?v=5Pgxo_7bNa8)
+- [Game Theory Lectures: The playlist has very good proofs for Sperner's Lemma and Brouwer's Fixed Point Theorem](https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep)
+- Anti-recommendation --> lecture notes
+
+### CV
+- [Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
+- [CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)
+
+### DL
+- [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Andrew NG - DeepLearningAI](https://www.youtube.com/@Deeplearningai/playlists)
+
+### DSCD
+- [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
+- [RPC/gRPC](https://www.youtube.com/watch?v=gnchfOojMk4)
+- [Network Time Protocol (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)
+- [RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw&pp=ygUIcmFiYml0bXE%3D)
+- [Distributed Systems by Martin Kleppmann (Good Watch)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Sequential and Causal Consistency](https://www.youtube.com/watch?v=dHgvQXnZ7Gw)
+- [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
+
+### DSc
+- [Stats Playlist](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
+- [Hypothesis Testing](https://www.youtube.com/playlist?list=PLTNMv857s9WXg9tRi7wHU9cMgL1x140dO)
+- [Some lectures from MIT 6.854 (Advanced Algorithms)](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
+- [JL Lemma](https://www.youtube.com/watch?v=j9qbuGSjzeE)
+- [SVD](https://www.youtube.com/watch?v=HAJey9-Q8js)
+- [SVD v/s Eigen Values](https://www.youtube.com/watch?v=Ed6CSJbyVak)
+- [Statquest](https://www.youtube.com/@statquest)
+
+### EVS
+- [All answers compiled](https://chat.openai.com/)
+
+### FCS
+- [PicoCTF](https://www.picoctf.org)
+- [CryptoHack](https://cryptohack.org)
+- [Prof Ninja](https://prof.ninja)
+- Ofcourse, none of the above is "required" for the course and your proficiency is inversely proportional to the grade you might obtain
+
+### FF
+- [14th and 15th edition of Fundamentals of Financial Management (Eugene F. Brigham, Joel F. Houston) along with some question papers of 2023](https://drive.google.com/drive/folders/11Ue8schvq-gOOQx3Mt5VFeVmCIpXKCBb?usp=sharing)
+- Do attend lectures as they are the most important source of learning in this course.
+- The make-up quiz is very hard, so try not to rely on it and work hard before each quiz.
+
+### GMT
+- An introduction to game theory, Martin J Osborne (available online)
+
+### GPU
+- [Nvidia CUDA programming](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+- [Programming Massively Parallel Processors - A Hands-on Approach](https://www.sciencedirect.com/book/9780128119860/programming-massively-parallel-processors)
+- Other course content like OpenMP/OpenCL | Read the docs
+
+### GT
+- Introduction to Graph Theory by Douglas B. West
+- Note, the course is not on algorithms
+
+### IR
+- [Old IIIT Recordings](https://www.youtube.com/playlist?list=PL9rvax0EIUA7EkcNOiaFdl81ubnfu3Gzc)
+- [Indexing and VSM](https://www.youtube.com/playlist?list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
+- [Some videos from Mining Massive Datasets Course (Stanford)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
+- [Naveen Aggarwal's Playlist (Panjab University)](https://www.youtube.com/playlist?list=PLc8H-pLVIdBVXxAA99dCIA8AJ1qNFXKuN)
+- [Information Retrieval and Web Search IISER Kolkata](https://www.youtube.com/playlist?list=PLpwnR8mPhhf8m7L_b9cSRLdjPW2soerAd)
+
+### ITS
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### InT
+- Handwritten notes of '[Prof. Manuj Mukherjee](https://sites.google.com/view/manuj-mukherjee/teaching)'
+- Reference book is mostly not needed. Attend classes for this course, this might be the best course you have seen in the college
+
+### KCES
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### ML
+- [Mahesh Huddar's Videos](https://www.youtube.com/watch?v=d3dLRJwtEk4&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn)
+- [Statquest](https://www.youtube.com/@statquest)
+
 ### NLP
 - [NPTEL Course](https://www.youtube.com/playlist?list=PLJJzI13YAXCHxbVgiFaSI88hj-mRSoMtI)
 - [Smoothing](https://www.youtube.com/watch?v=GwP8gKa-ij8)
@@ -233,16 +351,13 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - [Stanford CS224U: Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 
-### ML
-- [Mahesh Huddar's Videos](https://www.youtube.com/watch?v=d3dLRJwtEk4&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn)
-- [Statquest](https://www.youtube.com/@statquest)
-
-### CN
-- [Kurose](https://www.youtube.com/@JimKurose)
-- [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_)
-- [Computerphile for some topics](https://www.youtube.com/@Computerphile)
-- [Kunal Kushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8)
-- [Knowledge Gate](https://youtu.be/q3Z3Qa1UNBA?si=lUORrMr_d8T0fFpJ)
+### NSC
+> Do prev. years
+- [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
+- [RSA (With Extended Euclidean Algorithm)](https://www.youtube.com/watch?v=kYasb426Yjk)
+- [Linear Feedback Shift Register](https://www.youtube.com/watch?v=GSIDS_lvRv4)
+- [Public Key Cryptography](https://www.youtube.com/watch?v=Ks1pw1X22y4)
+- [Key Distribution Center (KDC)](https://www.youtube.com/watch?v=6bUNDR5Zhiw)
 
 ### NSS-1
 > If you want an easier time with the course, take it in the 7th semester after doing CN and maybe FCS(do note these are two very different courses)
@@ -261,6 +376,19 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Active Directory](https://book.hacktricks.xyz/windows-hardening/active-directory-methodology) Lots of extra material here as well. Only do what's necessary
 - Just attend lectures and read notes. Should be sufficient.
 
+### PB
+- www.google.com
+
+### PRMP
+- Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
+- [gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K) You would need it (seriously)
+- Most of the course is discussing research papers. Additional resources not needed
+
+### QM
+- JJ Sakurai (Can download online)
+- Physics Libretexts ([Essential Graduate Physics](https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Essential_Graduate_Physics_-_Quantum_Mechanics_(Likharev)))
+- [extracts of MIT OCW Lectures](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/a0889c5ca8a479c3e56c544d646fb770_MIT8_06S18ch1.pdf)
+
 ### RL
 - [BartoSutton (41MB)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - [Bertsekas (extra-ref)](https://web.mit.edu/dimitrib/www/RLbook.html)
@@ -276,138 +404,14 @@ The repository contains resources for IIITD courses. You can access the resource
 - [RL Relevant Playlists from CS 486/686 UoT (L18-L21)](https://www.youtube.com/@alicexigao/featured)
 - [NPTEL Course - Heard good things online, did not use personally](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX)
 
-### CG
-- Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
-- SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
-- docs.gl
-
-### CV
-- [Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
-- [CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)
-
-### EVS
-- [All answers compiled](https://chat.openai.com/)
-
-### ATP
-> Late Dropped by Contributor
-- [Psychological Refractory Period](https://www.youtube.com/watch?v=84uCKEH8Z_U)
-- [Stroop Task](https://www.youtube.com/watch?v=reUic5tyVwo)
-- [Action Potential](https://www.youtube.com/watch?v=W2hHt_PXe5o)
-- [Intracellular & Extracellular Recording](https://www.youtube.com/watch?v=LyBPd53cSPI)
-- [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
-- [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
-
-### GPU
-- [Nvidia CUDA programming](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-- [Programming Massively Parallel Processors - A Hands-on Approach](https://www.sciencedirect.com/book/9780128119860/programming-massively-parallel-processors)
-- Other course content like OpenMP/OpenCL | Read the docs
-
-### DSCD
-- [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
-- [RPC/gRPC](https://www.youtube.com/watch?v=gnchfOojMk4)
-- [Network Time Protocol (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)
-- [RabbitMQ](https://www.youtube.com/watch?v=7rkeORD4jSw&pp=ygUIcmFiYml0bXE%3D)
-- [Distributed Systems by Martin Kleppmann (Good Watch)](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- [Sequential and Causal Consistency](https://www.youtube.com/watch?v=dHgvQXnZ7Gw)
-- [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/conference/nsdi11/dominant-resource-fairness-fair-allocation-multiple-resource-types)
-
-### FF
-- [14th and 15th edition of Fundamentals of Financial Management (Eugene F. Brigham, Joel F. Houston) along with some question papers of 2023](https://drive.google.com/drive/folders/11Ue8schvq-gOOQx3Mt5VFeVmCIpXKCBb?usp=sharing)
-- Do attend lectures as they are the most important source of learning in this course.
-- The make-up quiz is very hard, so try not to rely on it and work hard before each quiz.
-
 ### VPM
 - Essentials of Investments, 12th Edition (Zvi Bodie Professor, Alex Kane etc.) [solutions available]
 
-### DL
-- [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
-- [Andrew NG - DeepLearningAI](https://www.youtube.com/@Deeplearningai/playlists)
-
-### IR
-- [Old IIIT Recordings](https://www.youtube.com/playlist?list=PL9rvax0EIUA7EkcNOiaFdl81ubnfu3Gzc)
-- [Indexing and VSM](https://www.youtube.com/playlist?list=PLaZQkZp6WhWwoDuD6pQCmgVyDbUWl_ZUi)
-- [Some videos from Mining Massive Datasets Course (Stanford)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
-- [Naveen Aggarwal's Playlist (Panjab University)](https://www.youtube.com/playlist?list=PLc8H-pLVIdBVXxAA99dCIA8AJ1qNFXKuN)
-- [Information Retrieval and Web Search IISER Kolkata](https://www.youtube.com/playlist?list=PLpwnR8mPhhf8m7L_b9cSRLdjPW2soerAd)
-
-### DSc
-- [Stats Playlist](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
-- [Hypothesis Testing](https://www.youtube.com/playlist?list=PLTNMv857s9WXg9tRi7wHU9cMgL1x140dO)
-- [Some lectures from MIT 6.854 (Advanced Algorithms)](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c)
-- [JL Lemma](https://www.youtube.com/watch?v=j9qbuGSjzeE)
-- [SVD](https://www.youtube.com/watch?v=HAJey9-Q8js)
-- [SVD v/s Eigen Values](https://www.youtube.com/watch?v=Ed6CSJbyVak)
-- [Statquest](https://www.youtube.com/@statquest)
-
 ### WN
 - [Links I found useful (Not exhaustive)](https://docs.google.com/document/d/18JtS0q05WspxTS7HJcHLuILzdTNV2n9n6fJxxlDpkaM/edit?usp=sharing)
-
-### QM
-- JJ Sakurai (Can download online)
-- Physics Libretexts ([Essential Graduate Physics](https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Essential_Graduate_Physics_-_Quantum_Mechanics_(Likharev)))
-- [extracts of MIT OCW Lectures](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/a0889c5ca8a479c3e56c544d646fb770_MIT8_06S18ch1.pdf)
-
-### GMT
-- An introduction to game theory, Martin J Osborne (available online)
 
 ### iROB
 - (Peter Corke, Second Edition) Robotics, Vision and Control
 - MATLAB Simulink resources
 
-### FCS
-- [PicoCTF](https://www.picoctf.org)
-- [CryptoHack](https://cryptohack.org)
-- [Prof Ninja](https://prof.ninja)
-- Ofcourse, none of the above is "required" for the course and your proficiency is inversely proportional to the grade you might obtain
 
-### NSC
-> Do prev. years
-- [Neso Academy Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII)
-- [RSA (With Extended Euclidean Algorithm)](https://www.youtube.com/watch?v=kYasb426Yjk)
-- [Linear Feedback Shift Register](https://www.youtube.com/watch?v=GSIDS_lvRv4)
-- [Public Key Cryptography](https://www.youtube.com/watch?v=Ks1pw1X22y4)
-- [Key Distribution Center (KDC)](https://www.youtube.com/watch?v=6bUNDR5Zhiw)
-
-### COO
-- [Stanford Lectures](https://www.youtube.com/playlist?list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi)
-- [Totally Unimodular Matrices](https://www.youtube.com/watch?v=3BPHGeWuAyA)
-- [Totally Unimodular Matrices: More Indepth](https://www.youtube.com/watch?v=Fmjy74c-R-I)
-- [Convex Cones and Farkas' Lemma](https://www.youtube.com/watch?v=uBjv6zFIs9M)
-- [Fair and Envy-Free Cake Cutting](https://www.youtube.com/watch?v=cBjvsbRu6Gc)
-- [Assignment Problem: Integer Linear Programming](https://www.youtube.com/watch?v=NxtXYV1ECVM)
-- [Playlist with some stuff on NLPP](https://www.youtube.com/playlist?list=PLm_MSClsnwm8ZKue0FAIDObAVKd3dfBSh)
-- [Lecture 15 and 16 for Primal to Dual Conversion](https://www.youtube.com/playlist?list=PL23dd-8zssJAdGmsSofO4UaRyEXZDtm7a)
-- [Page 2 for Epigraph related stuff](https://miralab.ai/courses/ML2021Fall/slides/Lec07-ConvexFunctions.pdf)
-- [Game Theory Related Stuff](https://www.youtube.com/playlist?list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo)
-- [Sensitivity Analysis](https://www.youtube.com/watch?v=5Pgxo_7bNa8)
-- [Game Theory Lectures: The playlist has very good proofs for Sperner's Lemma and Brouwer's Fixed Point Theorem](https://www.youtube.com/playlist?list=PLdUzuimxVcC0QCFYP0Af3TNldswjL8_ep)
-- Anti-recommendation --> lecture notes
-
-### KCES
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
-### ITS
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
-
-### PB
-- www.google.com
-
-### GT
-- Introduction to Graph Theory by Douglas B. West
-- Note, the course is not on algorithms
-
-### InT
-- Handwritten notes of '[Prof. Manuj Mukherjee](https://sites.google.com/view/manuj-mukherjee/teaching)'
-- Reference book is mostly not needed. Attend classes for this course, this might be the best course you have seen in the college
-
-### PRMP
-- Slides from '[HIPEC/Prof. Vivek Kumar cse513 offering](https://hipec.github.io/courses/cse513.html)'
-- [gdb tutorial](https://youtu.be/svG6OPyKsrw?si=dWyQKK72CRmEOp6K) You would need it (seriously)
-- Most of the course is discussing research papers. Additional resources not needed
-
-
-
----
-> ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)

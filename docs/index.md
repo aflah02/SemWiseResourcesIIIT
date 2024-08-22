@@ -21,10 +21,17 @@ The repository contains resources for IIITD courses. You can access the resource
 
 > Note: The process has recently changed (December 2023) and the changes now need to go to `resources.yaml` and not to `README.md` directly
 
+## Some General Important Links
+
+- [Course Books](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
+- [Course Materials](https://drive.google.com/drive/folders/1NQgofx-SXGDb64oLpFIliR7waYfM9qvk) (maintained by [Atharv Goel](https://github.com/Zynade)) 
+
+
+## Quick Links
 | Semester | Courses |
 | --- | --- |
-| [Semester 1](semester-1) | [IP](semester-1#ip) [DC](semester-1#dc) [LA](semester-1#la) [HCI](semester-1#hci) [COM](semester-1#com) |
-| [Semester 2](semester-2) | [DSA](semester-2#dsa) [P&S](semester-2#ps) [BE](semester-2#be) [CO](semester-2#co) |
-| [Semester 3](semester-3) | [AP](semester-3#ap) [OS](semester-3#os) [DM](semester-3#dm) [DS](semester-3#ds) [M3](semester-3#m3) [S&S](semester-3#ss) |
-| [Semester 4](semester-4) | [DBMS](semester-4#dbms) [ADA](semester-4#ada) [M4](semester-4#m4) [PIS](semester-4#pis) [TOC](semester-4#toc) [SML](semester-4#sml) [NN](semester-4#nn) |
-| [Open Electives](open-electives) | [NLP](open-electives#nlp) [ML](open-electives#ml) [CN](open-electives#cn) [NSS-1](open-electives#nss-1) [NSS-2](open-electives#nss-2) [RL](open-electives#rl) [CG](open-electives#cg) [CV](open-electives#cv) [EVS](open-electives#evs) [ATP](open-electives#atp) <br><br>[GPU](open-electives#gpu) [DSCD](open-electives#dscd) [FF](open-electives#ff) [VPM](open-electives#vpm) [DL](open-electives#dl) [IR](open-electives#ir) [DSc](open-electives#dsc) [WN](open-electives#wn) [QM](open-electives#qm) [GMT](open-electives#gmt) <br><br>[iROB](open-electives#irob) [FCS](open-electives#fcs) [NSC](open-electives#nsc) [COO](open-electives#coo) [KCES](open-electives#kces) [ITS](open-electives#its) [PB](open-electives#pb) [GT](open-electives#gt) [InT](open-electives#int) [PRMP](open-electives#prmp) <br><br>|
+| [Semester 1](semester-1) | [COM](semester-1#com) [DC](semester-1#dc) [HCI](semester-1#hci) [IP](semester-1#ip) [LA](semester-1#la) |
+| [Semester 2](semester-2) | [BE](semester-2#be) [CO](semester-2#co) [DSA](semester-2#dsa) [P&S](semester-2#ps) |
+| [Semester 3](semester-3) | [AP](semester-3#ap) [DM](semester-3#dm) [DS](semester-3#ds) [M3](semester-3#m3) [OS](semester-3#os) [S&S](semester-3#ss) |
+| [Semester 4](semester-4) | [ADA](semester-4#ada) [DBMS](semester-4#dbms) [M4](semester-4#m4) [NN](semester-4#nn) [PIS](semester-4#pis) [SML](semester-4#sml) [TOC](semester-4#toc) |
+| [Open Electives](open-electives) | [ATP](open-electives#atp) [CG](open-electives#cg) [CN](open-electives#cn) [COO](open-electives#coo) [CV](open-electives#cv) [DL](open-electives#dl) [DSCD](open-electives#dscd) [DSc](open-electives#dsc) [EVS](open-electives#evs) [FCS](open-electives#fcs) <br><br>[FF](open-electives#ff) [GMT](open-electives#gmt) [GPU](open-electives#gpu) [GT](open-electives#gt) [IR](open-electives#ir) [ITS](open-electives#its) [InT](open-electives#int) [KCES](open-electives#kces) [ML](open-electives#ml) [NLP](open-electives#nlp) <br><br>[NSC](open-electives#nsc) [NSS-1](open-electives#nss-1) [NSS-2](open-electives#nss-2) [PB](open-electives#pb) [PRMP](open-electives#prmp) [QM](open-electives#qm) [RL](open-electives#rl) [VPM](open-electives#vpm) [WN](open-electives#wn) [iROB](open-electives#irob) <br><br>|

@@ -1,3 +1,14 @@
+### BE
+- [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
+- [Basics of Electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL)
+- [Analog Electronics Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
+- [Network Theory Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh)
+
+### CO
+- [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
+- [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
+- [CO + CA notes](https://yash-keswani.github.io/iiitd_notes/CSE112_CO/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
+
 ### DSA
 - [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [Java Tutorial Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34)
@@ -20,15 +31,4 @@
 - [Visualizing Bayes Theorem 3B1B](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 - [Introduction to Probability and Statistics for Engineers and Scientists 3E](http://www.r-5.org/files/books/computers/algo-list/statistics/probability/Sheldon_M_Ross-Introduction_to_Probability_and_Statistics-EN.pdf)
 - [Solutions to Introduction to Probability and Statistics for Engineers and Scientists 5E](https://minerva.it.manchester.ac.uk/~saralees/statbook3.pdf)
-
-### BE
-- [Basic Electronics NPTEL](https://www.youtube.com/playlist?list=PLzJaFd3A7DZsA8xZg3tgoshboIIBY98cB)
-- [Basics of Electronics](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL)
-- [Analog Electronics Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
-- [Network Theory Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLR-hMp7wem-bdVN1iEhsh)
-
-### CO
-- [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
-- [Playlist, Book and Slides by Sarangi (Official Course Book)](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html)
-- [CO + CA notes](https://yash-keswani.github.io/iiitd_notes/CSE112_CO/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 

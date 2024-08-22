@@ -1,3 +1,34 @@
+### COM
+- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
+
+### DC
+- [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+- [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
+- [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
+- [Aasaan Padhai Some Good DC Content in Hindi](https://www.youtube.com/channel/UCECthWmk5_sRaE8OCbO_Gag/featured)
+- [Tristate Buffers Short Vid](https://www.youtube.com/watch?v=X2HPjppH7Rs), [Tristate Buffers Longer Vid](https://www.youtube.com/watch?v=2TgCKazwNFk)
+- [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
+- [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
+- [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
+- [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
+- [Online Circuit Simulation using Circuitverse](https://circuitverse.org/)
+- [All gates using MUXs](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/#:~:text=Implementation%20of%20NAND%2C%20NOR%2C%20XOR,input%20to%20the%20second%20multiplexer.&text=Three(3)%20%E2%80%8B2%20%3A,to%20implement%204%20%3A%201%20MUX.)
+- [All gates using NAND Gate](https://en.wikipedia.org/wiki/NAND_logic)
+- [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
+- [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
+- [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
+- [One Shot End Semester Video (6h)](https://www.youtube.com/watch?v=pHNbm-4reIc)
+
+### HCI
+- [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
+- [Prototyping Tool Figma](https://figma.com)
+- [Figma Tutorial in 40 mins](https://www.youtube.com/watch?v=4W4LvJnNegA)
+- [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
+- [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
+- [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
+
 ### IP
 - [Telusko Python Playlist](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 - [Code with Harry Python Playlist Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
@@ -19,25 +50,6 @@
 - [Adding figures in Matplotlib](https://www.youtube.com/watch?v=CRMtqTeH2HQ)
 - [Pattern Questions by Striver](https://youtu.be/tNm_NNSB3_w?si=7h28Okh_P9s9IJ_R)
 
-### DC
-- [Neso Academy DC Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
-- [Tutorials Point DC Playlist](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-)
-- [Knowledge Gate DC Playlist Hindi (Does not have decoders and encoders as of March 2021)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSfX1PVt4VGm-wbIKfemUWK)
-- [Aasaan Padhai Some Good DC Content in Hindi](https://www.youtube.com/channel/UCECthWmk5_sRaE8OCbO_Gag/featured)
-- [Tristate Buffers Short Vid](https://www.youtube.com/watch?v=X2HPjppH7Rs), [Tristate Buffers Longer Vid](https://www.youtube.com/watch?v=2TgCKazwNFk)
-- [Ben Eater's Playlist (not all are relevant for the course + he has more vids outside this playlist)](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-- Not Directly in course but insightful for parity stuff - [Hamming Codes by 3B1B P-1](https://www.youtube.com/watch?v=X8jsijhllIA), [Hamming Codes by 3B1B P-2](https://www.youtube.com/watch?v=b3NxrZOu_CE), [Ben Eater Hardware approach Hamming Codes](https://www.youtube.com/watch?v=h0jloehRKas)
-- [Morris Mano Book](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
-- [Morris Mano Solutions](https://usermanual.wiki/Pdf/Digital20Design2C20205th20Edition20Solution20Manual.205541320/view)
-- [Online Circuit Simulation using Tinkercad](https://www.tinkercad.com/)
-- [Online Circuit Simulation using Circuitverse](https://circuitverse.org/)
-- [All gates using MUXs](https://www.geeksforgeeks.org/multiplexers-in-digital-logic/#:~:text=Implementation%20of%20NAND%2C%20NOR%2C%20XOR,input%20to%20the%20second%20multiplexer.&text=Three(3)%20%E2%80%8B2%20%3A,to%20implement%204%20%3A%201%20MUX.)
-- [All gates using NAND Gate](https://en.wikipedia.org/wiki/NAND_logic)
-- [All gates using NOR Gate](https://en.wikipedia.org/wiki/NOR_logic)
-- [A Supercool writeup on Adders with examples on Bit-Sliced Addition](https://courses.engr.illinois.edu/ece199/fa2012/notes/adder.pdf)
-- [Positive Edge D Flip Flop using 6 NAND gates only- Writeup](http://elprojects.blogspot.com/2011/01/positive-edge-d-flip-flop-using-6-nand.html)
-- [One Shot End Semester Video (6h)](https://www.youtube.com/watch?v=pHNbm-4reIc)
-
 ### LA
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
@@ -52,16 +64,4 @@
 - [Toolkit with many calculators](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
 - [Matrix Inverse Calculator](https://matrix.reshish.com/inverse.php)
 - [Eigenvalue and Eigenvector Calculator](https://www.emathhelp.net/calculators/linear-algebra/eigenvalue-and-eigenvector-calculator/)
-
-### HCI
-- [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
-- [Prototyping Tool Figma](figma.com)
-- [Figma Tutorial in 40 mins](https://www.youtube.com/watch?v=4W4LvJnNegA)
-- [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
-- [Figma App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk)
-- [Figma UI Tutorial in 24 mins](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
-
-### COM
-- [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 

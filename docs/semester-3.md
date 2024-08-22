@@ -8,15 +8,6 @@
 - [Drawing UML Sequence Diagrams](https://youtu.be/pCK6prSq8aw)
 - [Drawing Use Case Diagrams](https://www.youtube.com/watch?v=zid-MVo7M-E)
 
-### OS
-- [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
-- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keswani 2020158)](https://github.com/Yash-Keswani)
-- [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
-- [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
-- [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
-- [Ostep: Three easy pieces (which are really easy)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [Ostep: Homework (and simulations with solutions in github repo)](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
-
 ### DM
 - [DM Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
 - [Mathematics for computer science, Eric Lehman, Albert R Meyer, F Thomson Leighton](https://people.csail.mit.edu/meyer/mcs.pdf)
@@ -38,6 +29,15 @@
 - [Playlist by Dr. S K Gupta (video 1-22 are good)](https://www.youtube.com/playlist?list=PLtKWB-wrvn4nA2h8TFxzWL2zy8O9th_fy)
 - [M3 notes](https://drive.google.com/drive/folders/1aY9m0pf3C7222mvO42Gf4CJPuFSimfDF) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 - [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+
+### OS
+- [Full Playlist](https://www.youtube.com/playlist?list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun)
+- [OS notes](https://drive.google.com/drive/folders/1mY4kFAOz6_UE47sgLDQOldEs2Ofd6Jqy?usp=sharing) by [(Yash Keswani 2020158)](https://github.com/Yash-Keswani)
+- [Artix Installation (not sure if follows everything needed)](https://www.youtube.com/watch?v=QzY2T3B4wlo)
+- [OS Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Concise C Video](https://www.youtube.com/watch?v=3lQEunpmtRA)
+- [Ostep: Three easy pieces (which are really easy)](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Ostep: Homework (and simulations with solutions in github repo)](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html)
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
