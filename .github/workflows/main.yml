@@ -35,11 +35,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        if ! git diff-index --quiet HEAD
-          git commit -m "Update README.md"
-          git push
-        else
+        if ! git diff-index --quiet HEAD; then
           echo "No changes to commit"
+        else
+          git commit -m "Update README and docs"
+          git push
+        fi
+
+
   
   
   deploy:
