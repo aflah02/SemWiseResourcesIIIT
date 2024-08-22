@@ -40,22 +40,23 @@ jobs:
   
   
   deploy:
-        runs-on: ubuntu-latest
-        steps:
-          - uses: actions/checkout@v4
-          - name: Configure Git Credentials
-            run: |
-              git config user.email "action@github.com"
-              git config user.name "GitHub Action"
-          - uses: actions/setup-python@v5
-            with:
-              python-version: 3.8
-          - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-          - uses: actions/cache@v3
-            with:
-              key: mkdocs-material-${{ env.cache_id }}
-              path: .cache
-              restore-keys: |
-                mkdocs-material-
-          - run: pip install -r requirements.txt
-          - run: mkdocs gh-deploy --force
+    needs: build-files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.8
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install -r requirements.txt
+      - run: mkdocs gh-deploy --force
