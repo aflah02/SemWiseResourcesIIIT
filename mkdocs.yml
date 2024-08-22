@@ -75,11 +75,10 @@ markdown_extensions:
 
 
 nav:
-  - IIITD Resources:
-    - Welcome: index.md
-    - Semester 1: semester-1.md 
-    - Semester 2: semester-2.md
-    - Semester 3: semester-3.md
-    - Semester 4: semester-4.md
-    - Open Electives: open-electives.md
+  - Welcome: index.md
+  - Semester 1: semester-1.md
+  - Semester 2: semester-2.md
+  - Semester 3: semester-3.md
+  - Semester 4: semester-4.md
+  - Open Electives: open-electives.md
   - Contributing: CONTRIBUTING.md
