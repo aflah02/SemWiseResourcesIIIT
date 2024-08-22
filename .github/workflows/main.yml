@@ -9,6 +9,7 @@ on:
       - docs/CONTRIBUTING.md
       - .github/**
       - scripts/**
+      - mkdocs.yml
 
 jobs:
   build-files:
