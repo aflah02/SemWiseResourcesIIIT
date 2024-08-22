@@ -37,22 +37,19 @@ def build_index(yaml_dump:str) -> str:
 def build_content(yaml_dump:str) -> str:
     readme = "\n"
 
-    for semester_heading in yaml_dump.keys():
-        readme += f"## {semester_heading}\n"
-        for course in yaml_dump[semester_heading]:
+    for semester in yaml_dump.keys():
+        readme += f"## {semester}\n"
+        for course in yaml_dump[semester]:
             readme += f"### {course}\n"
-            resources, notes = yaml_dump[semester_heading][course]
+            resources = yaml_dump[semester][course].get('Resources', [])
+            notes = yaml_dump[semester][course].get('Notes', [])
+
             for note in notes:
                 readme += f"> {note}\n"
             for resource in resources:
                 readme += f"- {resource}\n"
             readme += "\n"
         readme += "\n"
-
-    readme += """
----
-> ## Course Books : [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
-"""
 
     return readme
 
@@ -67,4 +64,4 @@ def yaml_to_readme(yaml_file_path, readme_file_path):
         f.write(readme)
 
 if __name__ == "__main__":
-    yaml_to_readme('resources.yaml', 'README.md')
+    yaml_to_readme(YAML_FILE_PATH, 'README.md')

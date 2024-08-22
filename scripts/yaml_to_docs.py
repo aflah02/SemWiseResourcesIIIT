@@ -33,7 +33,7 @@ def build_index(yaml_dump:str) -> None:
 
         # add the new line
         readme += "|\n"
-    
+
     # write to README.md
     with open(FINAL_README, 'w') as f:
         f.write(readme)
@@ -51,9 +51,9 @@ def build_docs(yaml_dump:str) -> None:
         # Add header
         for course in yaml_dump[semester].keys():
             content += f"### {course}\n"
-            resources, notes = yaml_dump[semester][course]
-            
-            # Add resources and notes
+            resources = yaml_dump[semester][course].get('Resources', [])
+            notes = yaml_dump[semester][course].get('Notes', [])
+
             for note in notes:
                 content += f"> {note}\n\n"
             for resource in resources:

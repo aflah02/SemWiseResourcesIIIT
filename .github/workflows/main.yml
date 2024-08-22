@@ -1,4 +1,4 @@
-name: Create README and Website from YAML
+name: Build Docs and Deploy 
 
 on:
   workflow_dispatch:
@@ -8,15 +8,15 @@ on:
       - 'resources.yaml'
 
 jobs:
-  serve_user:
+  build-files:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: 3.8  # Change this to your Python version if needed
 
@@ -37,3 +37,25 @@ jobs:
         git add .
         git commit -m "Update README.md"
         git push
+  
+  
+  deploy:
+        runs-on: ubuntu-latest
+        steps:
+          - uses: actions/checkout@v4
+          - name: Configure Git Credentials
+            run: |
+              git config user.email "action@github.com"
+              git config user.name "GitHub Action"
+          - uses: actions/setup-python@v5
+            with:
+              python-version: 3.8
+          - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+          - uses: actions/cache@v3
+            with:
+              key: mkdocs-material-${{ env.cache_id }}
+              path: .cache
+              restore-keys: |
+                mkdocs-material-
+          - run: pip install -r requirements.txt
+          - run: mkdocs gh-deploy --force

@@ -20,3 +20,11 @@ The repository contains resources for IIITD courses. You can access the resource
 
 
 > Note: The process has recently changed (December 2023) and the changes now need to go to `resources.yaml` and not to `README.md` directly
+
+## Some General Important Links
+
+- [Course Books](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
+- [Course Materials](https://drive.google.com/drive/folders/1NQgofx-SXGDb64oLpFIliR7waYfM9qvk) (maintained by [Atharv Goel](https://github.com/Zynade)) 
+
+
+## Quick Links
