@@ -7,27 +7,19 @@ Thank you for contributing to our resources repository! Your contributions help 
 1. Navigate to the relevant section in `resouces.yaml` where you want to add the course.
 
    ```
-   IIIT Sem 2 Resources:
+   Semester 2: 
    ```
 
 2. Under the appropriate semester/year heading, add the course using the following format:
 
-   If no notes:
    ```
-   IIIT Sem 2 Resources:
-   Course Name: !!python/tuple
-   -  - '[Resource 1](link)'
+   Semester 2:
+   Course Name:
+      Resources:
+      - '[Resource 1](link)'
       - 'Use Book XYZ'
-   - []
-   ```
-
-   With notes:
-   ```
-   IIIT Sem 2 Resources:
-   Course Name: !!python/tuple
-   -  - '[Resource 1](link)'
-      - 'Use Book XYZ'
-   -  - Note to add
+      Notes // optional
+      - Any additional comment you want to add //optional
    ```
 
    You can get a clear idea by looking at other courses and just copy pasting them
