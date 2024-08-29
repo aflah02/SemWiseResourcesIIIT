@@ -61,7 +61,8 @@ The repository contains resources for IIITD courses. You can access the resource
 - [One Shot End Semester Video (6h)](https://www.youtube.com/watch?v=pHNbm-4reIc)
 
 ### HCI
-- [Interaction Design: Beyond Human-Computer Interaction Book](https://school.hbh7.com/pdfs/RPI/%5BHelen-Sharp%2C-Jenny-Preece%2C-Yvonne-Rogers%5D-Interac%28z-lib.org%29.pdf)
+- [Vasiliki - HCI](https://www.youtube.com/playlist?list=PLZJO8uYi0aTH18GiHj23feaBjRAumTM3z)
+- [DES101: Introduction to HCI Dr. Rajiv Ratn Shah.MIDAS Lab IIIT Delhi](https://www.youtube.com/playlist?list=PL9rvax0EIUA7KMhdCpjvAFroczbd_s7Z-)
 - [Prototyping Tool Figma](https://figma.com)
 - [Figma Tutorial in 40 mins](https://www.youtube.com/watch?v=4W4LvJnNegA)
 - [Figma Crash Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
@@ -213,10 +214,10 @@ The repository contains resources for IIITD courses. You can access the resource
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### NN
-- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
+- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN) by [(kintsugi-programmer)](https://github.com/kintsugi-programmer)
 
 ### PIS
-- [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
+- [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS) by [(kintsugi-programmer)](https://github.com/kintsugi-programmer)
 
 ### SML
 - Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
