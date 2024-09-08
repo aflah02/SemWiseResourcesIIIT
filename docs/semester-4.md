@@ -23,10 +23,10 @@
 - [M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 
 ### NN
-- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN)
+- [NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN) by [(kintsugi-programmer)](https://github.com/kintsugi-programmer)
 
 ### PIS
-- [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS)
+- [PIS Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/PIS) by [(kintsugi-programmer)](https://github.com/kintsugi-programmer)
 
 ### SML
 - Lecture Slides and/or https://scikit-learn.org/stable/user_guide.html
