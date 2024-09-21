@@ -24,7 +24,8 @@ The repository contains resources for IIITD courses. You can access the resource
 ## Some General Important Links
 
 - [Course Books](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
-- [Course Materials](https://drive.google.com/drive/folders/1NQgofx-SXGDb64oLpFIliR7waYfM9qvk) (maintained by [Atharv Goel](https://github.com/Zynade)) 
+- [Course Materials](https://drive.google.com/drive/folders/1NQgofx-SXGDb64oLpFIliR7waYfM9qvk) (maintained by [Atharv Goel](https://github.com/Zynade))
+- [IIITD PYQs](https://github.com/NalishJain/IIITD-PYQs) (maintained by [Nalish Jain](https://github.com/NalishJain))
 
 
 ## Quick Links
