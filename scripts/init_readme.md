@@ -19,8 +19,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - Course books for courses can be found [here](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B)
 
 
-> Note: The process has recently changed (December 2023) and the changes now need to go to `resources.yaml` and not to `README.md` directly
-
 ## Some General Important Links
 
 - [Course Books](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
