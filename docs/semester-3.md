@@ -41,4 +41,5 @@
 
 ### S&S
 - [Full Playlist](https://www.youtube.com/playlist?list=PL1XaeVNXKsvx5QCG7OdYEwRLyDrKUuS6i)
+- [Signals and Systems by Engineers ki Pathshala](https://youtube.com/playlist?list=PL9RcWoqXmzaIG-RWneeqDJ-FCt66S15pl&si=mt0kTHoIYy8NJXm5)
 
