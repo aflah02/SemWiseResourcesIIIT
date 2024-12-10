@@ -188,8 +188,7 @@ Semester 4:
     - Do The Book
     - Google Topics you find difficult probably Gajendra Purohit Sir, BPRP or someone
       else has a video on it
-    - '[M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U)
-      by [(Yash Keswani)](https://github.com/Yash-Keswani)'
+    - "[M4 notes](https://drive.google.com/drive/folders/1tjdm1iKImbfemjHfg-14TMKp846RuD_U) by [(Yash Keswani)](https://github.com/Yash-Keswani)"
   NN:
     Resources:
     - '[NN Notes & Material](https://github.com/kintsugi-programmer/beWarehouse/tree/main/NN) by [(kintsugi-programmer)](https://github.com/kintsugi-programmer)'
@@ -223,7 +222,10 @@ Open Electives:
     Resources:
     - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
     - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
-    - docs.gl
+    - '[learnopengl](https://learnopengl.com/) - Most of the labs are from here'
+    - '[Cherno OpenGL playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)'
+    - 
+    - 'docs.gl'
   CN:
     Resources:
     - '[Kurose](https://www.youtube.com/@JimKurose)'
@@ -397,8 +399,7 @@ Open Electives:
     - '[CS234 Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)'
     - '[DeepMind x UCL | Introduction to Reinforcement Learning 2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)'
     - '[DeepMind x UCL | Reinforcement Learning Course 2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)'
-    - '[DeepMind x UCL | RL Lecture Series 2021 (Playlist Name has Deep Learning but
-      probably a typo as video names have RL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)'
+    - '[DeepMind x UCL | RL Lecture Series 2021 (Playlist Name has Deep Learning but probably a typo as video names have RL)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)'
     - '[Reinforcement Learning by the Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)'
     - '[RL Relevant Playlists from CS 486/686 UoT (L18-L21)](https://www.youtube.com/@alicexigao/featured)'
     - '[NPTEL Course - Heard good things online, did not use personally](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ0Hkv_1LHlJtC_wqwVu6RQX)'
