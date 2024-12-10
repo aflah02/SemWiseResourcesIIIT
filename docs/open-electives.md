@@ -11,6 +11,9 @@
 ### CG
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
 - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
+- [learnopengl](https://learnopengl.com/) - Most of the labs are from here
+- [Cherno OpenGL playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
+- [CG Notes](https://www.anirudh-s-kumar.github.io/CG-Notes/) by [Anirudh-S-Kumar](https://github.com/Anirudh-S-Kumar)
 - docs.gl
 
 ### CN
@@ -38,6 +41,9 @@
 ### CV
 - [Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
 - [CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)
+
+### BDA
+- [Question Bank](https://drive.google.com/file/d/1Iy3OsTkZaqyqMNiKOwjVhjtcghAG8VC5/view?usp=sharing)
 
 ### DL
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)

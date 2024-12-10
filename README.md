@@ -34,7 +34,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](#semester-2) | [BE](#be) [CO](#co) [DSA](#dsa) [P&S](#ps) |
 | [Semester 3](#semester-3) | [AP](#ap) [DM](#dm) [DS](#ds) [M3](#m3) [OS](#os) [S&S](#ss) |
 | [Semester 4](#semester-4) | [ADA](#ada) [DBMS](#dbms) [M4](#m4) [NN](#nn) [PIS](#pis) [SML](#sml) [TOC](#toc) |
-| [Open Electives](#open-electives) | [ATP](#atp) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) [EVS](#evs) [FCS](#fcs) <br><br>[FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) [KCES](#kces) [ML](#ml) [NLP](#nlp) <br><br>[NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) [RL](#rl) [VPM](#vpm) [WN](#wn) [iROB](#irob) <br><br>|
+| [Open Electives](#open-electives) | [ATP](#atp) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [BDA](#bda) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) [EVS](#evs) <br><br>[FCS](#fcs) [FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) [KCES](#kces) [ML](#ml) <br><br>[NLP](#nlp) [NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) [RL](#rl) [VPM](#vpm) [WN](#wn) <br><br>[iROB](#irob) |
 
 ## Semester 1
 ### COM
@@ -246,6 +246,9 @@ The repository contains resources for IIITD courses. You can access the resource
 ### CG
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
 - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
+- [learnopengl](https://learnopengl.com/) - Most of the labs are from here
+- [Cherno OpenGL playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
+- [CG Notes](https://www.anirudh-s-kumar.github.io/CG-Notes/) by [Anirudh-S-Kumar](https://github.com/Anirudh-S-Kumar)
 - docs.gl
 
 ### CN
@@ -273,6 +276,9 @@ The repository contains resources for IIITD courses. You can access the resource
 ### CV
 - [Stanford Computer Vision Lecture Notes](https://web.stanford.edu/class/cs231a/course_notes.html)
 - [CMU 16-385 Slides](https://www.cs.cmu.edu/~16385/)
+
+### BDA
+- [Question Bank](https://drive.google.com/file/d/1Iy3OsTkZaqyqMNiKOwjVhjtcghAG8VC5/view?usp=sharing)
 
 ### DL
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
