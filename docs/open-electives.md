@@ -8,13 +8,21 @@
 - [fMRI](https://www.youtube.com/watch?v=Bbg_7g_MEAo)
 - [Electroencephalography (EEG)](https://www.youtube.com/watch?v=tZcKT4l_JZk)
 
+### CA
+> Do all the practice questions and PYQs well, most of the paper is from them.
+
+- [CA by Princeton](https://youtube.com/playlist?list=PLUDvczyXAbgnY-ij0lzrs-9hzqDocOUfm&si=FhEa7LuX4LXQ2btk)
+- [Gem5](https://www.gem5.org/documentation/learning_gem5/introduction/)
+
 ### CG
 - Peter Shirley, Fundamentals of Computer Graphics (course book, often reffered)
+- Tomas Akenine-Möller, Real Time Rendering - A good reference book for rendering, transformations and textures etc
 - SIGGRAPH Intro to opengl [video](https://www.youtube.com/watch?v=6-9XFm7XAT8)
 - [learnopengl](https://learnopengl.com/) - Most of the labs are from here
 - [Cherno OpenGL playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2)
 - [CG Notes](https://www.anirudh-s-kumar.github.io/CG-Notes/) by [Anirudh-S-Kumar](https://github.com/Anirudh-S-Kumar)
 - docs.gl
+- [CG Lectures by CMU](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 
 ### CN
 - [Kurose](https://www.youtube.com/@JimKurose)
@@ -48,6 +56,9 @@
 ### DL
 - [Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 - [Andrew NG - DeepLearningAI](https://www.youtube.com/@Deeplearningai/playlists)
+- [D2L-AI](https://d2l.ai/)
+- [Deep Learning Foundation and Concept - Bishop](https://www.bishopbook.com/)
+- Research papers mentioned in slides
 
 ### DSCD
 - [Distributed Systems - Tanenbaum](https://www.distributed-systems.net/index.php/books/ds3/)
