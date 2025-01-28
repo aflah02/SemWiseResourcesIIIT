@@ -81,6 +81,9 @@
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
 
+### SOE
+- [Notes Compiled](https://github.com/kintsugi-programmer/beWarehouse/tree/main/SOE)
+
 ### FCS
 - [PicoCTF](https://www.picoctf.org)
 - [CryptoHack](https://cryptohack.org)

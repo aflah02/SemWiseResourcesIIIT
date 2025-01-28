@@ -34,7 +34,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](#semester-2) | [BE](#be) [CO](#co) [DSA](#dsa) [P&S](#ps) |
 | [Semester 3](#semester-3) | [AP](#ap) [DM](#dm) [DS](#ds) [M3](#m3) [OS](#os) [S&S](#ss) |
 | [Semester 4](#semester-4) | [ADA](#ada) [DBMS](#dbms) [M4](#m4) [NN](#nn) [PIS](#pis) [SML](#sml) [TOC](#toc) |
-| [Open Electives](#open-electives) | [ATP](#atp) [CA](#ca) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [BDA](#bda) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) <br><br>[EVS](#evs) [FCS](#fcs) [FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) [KCES](#kces) <br><br>[ML](#ml) [NLP](#nlp) [NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) [RL](#rl) [VPM](#vpm) <br><br>[WN](#wn) [iROB](#irob) |
+| [Open Electives](#open-electives) | [ATP](#atp) [CA](#ca) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [BDA](#bda) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) <br><br>[EVS](#evs) [SOE](#soe) [FCS](#fcs) [FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) <br><br>[KCES](#kces) [ML](#ml) [NLP](#nlp) [NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) [RL](#rl) <br><br>[VPM](#vpm) [WN](#wn) [iROB](#irob) |
 
 ## Semester 1
 ### COM
@@ -314,6 +314,9 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ### EVS
 - [All answers compiled](https://chat.openai.com/)
+
+### SOE
+- [Notes Compiled](https://github.com/kintsugi-programmer/beWarehouse/tree/main/SOE)
 
 ### FCS
 - [PicoCTF](https://www.picoctf.org)
