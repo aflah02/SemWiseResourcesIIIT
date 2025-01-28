@@ -294,6 +294,9 @@ Open Electives:
   EVS:
     Resources:
     - '[All answers compiled](https://chat.openai.com/)'
+  SOE:
+    Resources:
+    - '[Notes Compiled](https://github.com/kintsugi-programmer/beWarehouse/tree/main/SOE)'
   FCS:
     Resources:
     - '[PicoCTF](https://www.picoctf.org)'
