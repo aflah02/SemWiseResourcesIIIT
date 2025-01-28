@@ -126,6 +126,9 @@
 - [Sharam nahi aayi?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - [Aayi?](https://www.youtube.com/watch?v=y6120QOlsfU)
 
+### TCOM
+- [Notes Compiled](https://github.com/kintsugi-programmer/beWarehouse/tree/main/TC)
+
 ### ML
 - [Mahesh Huddar's Videos](https://www.youtube.com/watch?v=d3dLRJwtEk4&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn)
 - [Statquest](https://www.youtube.com/@statquest)
