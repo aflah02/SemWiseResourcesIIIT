@@ -24,6 +24,6 @@ The repository contains resources for IIITD courses. You can access the resource
 - [Course Books](https://drive.google.com/drive/folders/1Xhwlwbhj1HP6R9BysSoXcqScWFsnIj7B?usp=sharing)
 - [Course Materials](https://drive.google.com/drive/folders/1NQgofx-SXGDb64oLpFIliR7waYfM9qvk) (maintained by [Atharv Goel](https://github.com/Zynade))
 - [IIITD PYQs](https://github.com/NalishJain/IIITD-PYQs) (maintained by [Nalish Jain](https://github.com/NalishJain))
-
+- [ECE/EVE Course materials](https://github.com/ElectroholicsIIITD/IIITD-Resource-Archive-ECE-EVE) (maintained by [Electroholics](https://github.com/ElectroholicsIIITD))
 
 ## Quick Links
