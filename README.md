@@ -202,6 +202,7 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ### DBMS
 - [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+- [SQL OneShot by ApnaCollege](https://youtu.be/hlGoQC332VM?feature=shared)
 - [Knowledge GATE DBMS Playlist](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
 - [If you wish to build Flask APIs (short refresher)](https://www.youtube.com/watch?v=Jzv3G5iDLvw)
 - [Python MySQL Tutorial by Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
