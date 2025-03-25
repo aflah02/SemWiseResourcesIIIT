@@ -6,6 +6,7 @@
 - [ADA notes](https://yash-keswani.github.io/iiitd_notes/CSE222_ADA/) by [(Yash Keswani)](https://github.com/Yash-Keswani)
 - [A2Z Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 - [ADA Knowledge Gate One Shot](https://www.youtube.com/watch?v=z6DY_YSdyww)
+- [All DP Forms and Patterns Video](https://youtu.be/_P33FmWMM_4?feature=shared)
 
 ### DBMS
 - [Programming with Mosh Tutorial MySQL](https://www.youtube.com/watch?v=7S_tz1z_5bA)
