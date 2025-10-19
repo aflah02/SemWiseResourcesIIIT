@@ -34,7 +34,7 @@ The repository contains resources for IIITD courses. You can access the resource
 | [Semester 2](#semester-2) | [BE](#be) [CO](#co) [DSA](#dsa) [P&S](#ps) |
 | [Semester 3](#semester-3) | [AP](#ap) [DM](#dm) [DS](#ds) [M3](#m3) [OS](#os) [S&S](#ss) |
 | [Semester 4](#semester-4) | [ADA](#ada) [DBMS](#dbms) [M4](#m4) [NN](#nn) [PIS](#pis) [SML](#sml) [TOC](#toc) |
-| [Open Electives](#open-electives) | [ATP](#atp) [CA](#ca) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [BDA](#bda) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) <br><br>[EVS](#evs) [SOE](#soe) [FCS](#fcs) [FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) <br><br>[KCES](#kces) [TCOM](#tcom) [ML](#ml) [NLP](#nlp) [NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) <br><br>[RL](#rl) [VPM](#vpm) [WN](#wn) [iROB](#irob) |
+| [Open Electives](#open-electives) | [ATP](#atp) [CA](#ca) [CG](#cg) [CN](#cn) [COO](#coo) [CV](#cv) [BDA](#bda) [DL](#dl) [DSCD](#dscd) [DSc](#dsc) <br><br>[EVS](#evs) [SOE](#soe) [FCS](#fcs) [FF](#ff) [GMT](#gmt) [GPU](#gpu) [GT](#gt) [IR](#ir) [ITS](#its) [InT](#int) <br><br>[KCES](#kces) [TCOM](#tcom) [ML](#ml) [NLP](#nlp) [NSC](#nsc) [NSS-1](#nss-1) [NSS-2](#nss-2) [PB](#pb) [PRMP](#prmp) [QM](#qm) <br><br>[RL](#rl) [VPM](#vpm) [WN](#wn) [iROB](#irob) [SC](#sc) |
 
 ## Semester 1
 ### COM
@@ -440,5 +440,10 @@ The repository contains resources for IIITD courses. You can access the resource
 ### iROB
 - (Peter Corke, Second Edition) Robotics, Vision and Control
 - MATLAB Simulink resources
+
+### SC
+- [IIT Bombay Lectures](https://youtube.com/playlist?list=PLjAj1Z92T7LT7Lhtp_Z4QTcajMH3Sgf9L&si=-VbUWoNlgztW50yd)
+- Use Book Introduction to Numerical Analysis by S. Baskar and S. Sivaji Ganesh
+- [Link to the Book](https://www.math.iitb.ac.in/~siva/si50716/SI507lecturenotes.pdf)
 
 

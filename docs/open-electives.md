@@ -208,3 +208,8 @@
 - (Peter Corke, Second Edition) Robotics, Vision and Control
 - MATLAB Simulink resources
 
+### SC
+- [IIT Bombay Lectures](https://youtube.com/playlist?list=PLjAj1Z92T7LT7Lhtp_Z4QTcajMH3Sgf9L&si=-VbUWoNlgztW50yd)
+- Use Book Introduction to Numerical Analysis by S. Baskar and S. Sivaji Ganesh
+- [Link to the Book](https://www.math.iitb.ac.in/~siva/si50716/SI507lecturenotes.pdf)
+
