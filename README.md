@@ -95,8 +95,8 @@ The repository contains resources for IIITD courses. You can access the resource
 - [MIT OCW LA](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [Khan Academy](https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0)
 - [3B1B Visualizations](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [Lesser known Playlist by James Hamblin who follows David C Lay in his videos](https://www.youtube.com/playlist?list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86)
-- [Playlist by Shoo Seto follows DC Lay too](https://www.youtube.com/playlist?list=PLkvjKEArvf9uo4admb4NQ1wn-9g0lfptE)
+- [Lesser kno Playlist by James Hamblin who follows David C Lay in his videos](https://www.youtube.com/playlist?list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86)
+- [Playlist by Shoo Seto follows DC Lay too](https://www.youtube.com/playlist?list=PLkvjKEArvf9uo4admb4NQ1-9g0lfptE)
 - [Playlist on Inner Products by Bhagwan Singh Vishwakarma](https://www.youtube.com/playlist?list=PLdM-WZokR4tYGuV7IozQ3-F86kOPCXRrp)
 - [DC Lay 5th Edition](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [DC Lay Solutions](http://www.aerostudents.com/courses/linear-algebra/linearAlgebraSolutionsComplete.pdf)
@@ -145,7 +145,7 @@ The repository contains resources for IIITD courses. You can access the resource
 
 ## Semester 3
 ### AP
-- [CS0150 Brown University](https://cs.brown.edu/courses/cs015/)
+- [CS0150 Bro University](https://cs.brown.edu/courses/cs015/)
 - [Java Code with Harry Hindi (For Some OOPs Concepts)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 - [CSE 114 - Fall 2021 section 1 Stony Brook University](https://www3.cs.stonybrook.edu/~pfodor/courses/cse114.html)
 - [MultiThreading Playlist by Smart Programming in Hindi](https://www.youtube.com/playlist?list=PLlhM4lkb2sEh1pBs0KBb63PlKKqRx6M1a)

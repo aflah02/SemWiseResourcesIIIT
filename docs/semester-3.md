@@ -1,5 +1,5 @@
 ### AP
-- [CS0150 Brown University](https://cs.brown.edu/courses/cs015/)
+- [CS0150 Bro University](https://cs.brown.edu/courses/cs015/)
 - [Java Code with Harry Hindi (For Some OOPs Concepts)](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
 - [CSE 114 - Fall 2021 section 1 Stony Brook University](https://www3.cs.stonybrook.edu/~pfodor/courses/cse114.html)
 - [MultiThreading Playlist by Smart Programming in Hindi](https://www.youtube.com/playlist?list=PLlhM4lkb2sEh1pBs0KBb63PlKKqRx6M1a)
